@@ -1,6 +1,5 @@
 ### README.md
 # FrequencyLaw: Textual Frequency Law on Large Language Models
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Project Introduction
 This project is the official code repository accompanying the paper **Textual Frequency Law on Large Language Models**. It implements the three core methods proposed in the paper: **Textual Frequency Law (TFL)**, **Textual Frequency Distillation (TFD)**, and **Curriculum Textual Frequency Training (CTFT)**, verifying the optimization effect of textual frequency on Large Language Models (LLMs) in Mathematical Reasoning (MR) and Machine Translation (MT) tasks.
