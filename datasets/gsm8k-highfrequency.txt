@@ -1,0 +1,738 @@
+Janet's ducks produce 16 eggs daily. She eats 3 for breakfast and uses 4 for baking muffins for her friends. The remaining eggs are sold at $2 each. How much does she earn from the sales each day?
+Josh buys a house for $80,000 and invests $50,000 in repairs, increasing its value by 150%. What is his profit?
+James runs 60 meters per sprint, completing 3 sprints weekly. What is his total distance run in a week?
+Carla downloads a 200 GB file at 2 GB per minute. When 40% of the download is completed, a 20-minute Windows update forces a restart, making her start over. How long will the download take in total?
+After driving for 3 hours at 60 mph, John realizes he forgot something and tries to return within 4 hours, but spends 2 hours in traffic. He drives 30 minutes at 30 mph and finishes the trip at 80 mph. How far is he from home after 4 hours?
+Carlos buys a lemon tree for $90, which yields 7 lemons per year, each selling for $1.50. The annual care costs $3. When does he start making a profit?
+Melanie sells vacuum cleaners door-to-door. At the green house, she sells 1/3 of her stock; at the red house, she sells 2; and at the orange house, she sells half of what’s left. She has 5 left. How many did she start with?
+Jill earns $20 per hour for teaching and $30 for coaching cheerleading. If she works 35 hours teaching and 15 hours coaching weekly for 50 weeks, what is her yearly income?
+Claire eats a 3-egg omelet for breakfast daily. How many dozens of eggs does she consume in 4 weeks?
+Marissa hikes a 12-mile trail. She spends 1 hour on the first 4 miles and another hour on the next 2 miles. What speed does she need to maintain to achieve an average of 4 mph?
+Raymond is born 6 years before Samantha and becomes a parent at 23. If Samantha is 31, how many years ago did Raymond become a father?
+Billy sells DVDs. On Tuesday, he has 8 customers. The first 3 buy 1 DVD each, the next 2 buy 2 DVDs each, and the last 3 buy none. How many DVDs did Billy sell?
+Kyle buys last year’s bestseller for $19.50 after a 25% discount. What was the original price of the book?
+Marie spends $50 for one chicken meal at $12, five packs of milk at $3 each, four apples at $1.50 each, and some pizza boxes. How many pizza boxes did she buy if each costs $8.50?
+After buying 3 sets of shorts, pants, and shoes—shorts costing $16.50 each, pants at $22.50 apiece, and shoes for $42 each, how much did Mishka spend on clothes in total?
+Cynthia buys ice cream cartons with 15 servings at $4 each. She has one serving daily for 60 days. What is her total ice cream cost?
+Gloria finds boots within her budget but is torn between them and two pairs of heels that cost $5 less. One pair costs $33, and the other costs double that. What is the price of the boots?
+Gunter asks his friends to guess the number of jelly beans in a jar. One guesses 80, another says it's 20 more than half that, and the third claims it's 25% more than the first guess. What is their average estimate?
+John spends 0.5 hours daily on each of his 10 dogs for walking and care. How much time does that add up to in a week?
+Siobhan has 2 fewer jewels than Aaron, and Aaron has 5 more than half of Raymond’s jewels. How many jewels does Siobhan have if Raymond has 40 jewels?
+Mike spends 40 minutes on ping pong. He racks up 4 points in the first 30 minutes. Then, in the last part, he gets 25% more. How many points does he have in total?
+Terry eats 2 yogurts daily. They are sold at 4 for $5. How much does Terry spend on yogurt over 30 days?
+John sells all his toys to buy video games. He has 13 Lego sets, each costing $15. He buys 8 video games at $20 each and keeps $5. How many Lego sets does he still have?
+John runs 60 miles weekly, completing the distance in 3 days. He runs 3 hours on the first day and half as much on the other two days. What is his average speed?
+Dana runs four times faster than her walking pace and skips at half her running speed. If her skipping speed is 3 mph and she runs for one-third of six hours and walks for the rest, how far will she travel?
+At the fireman's luncheon, Grandma Jones bakes 5 apple pies and cuts each into 8 pieces. After the guests have helped themselves, 14 pieces remain. How many pieces were eaten?
+Charlie makes beeswax candles. He can produce 10 candles from 1 pound of beeswax, which costs $10 for the wax and wicks. If he sells each candle for $2, what is his net profit from selling 20 candles?
+John buys twice as many red ties as blue ones, with the red ties costing 50% more than the blue ones. He spends $200 on blue ties priced at $40 each. How much does he spend in total on ties?
+Tracy cuts a 4-foot wire into 6-inch lengths to prop her tomato plants. How many pieces does she create?
+Richard lives in a 15-story apartment building with 8 units per floor. Three-quarters of the building is occupied. How many units are still vacant?
+Tom sails at 10 mph from 1 PM to 4 PM. He returns at 6 mph. How long does it take him to return?
+Uriah has a 15-pound backpack to lighten. He removes 30 comic books at 1/4 pound each and 1/2 pound toys. How many toys must he remove?
+Peter goes to the cinema weekly. Each ticket and popcorn costs $7. How many movie visits can he make with $42?
+This raspberry bush has 6 clusters with 20 berries in each, plus 67 more berries spread around. How many raspberries in total?
+Janet buys a brooch for her daughter, paying $500 for materials and $800 for labor. She insures it for 10% of the total cost. How much does she pay in total?
+Jim watches TV for 2 hours and then reads for 1 hour each evening before bed, doing this routine 3 times weekly. How many hours does he devote to both activities over 4 weeks?
+Each weekday, Judy teaches 5 dance classes and conducts 8 classes on Saturday. With 15 students enrolled per class and a fee of $15.00, what is her weekly earning?
+Tommy raises money for his charity by selling brownies for $3 each and cheesecakes for $4 each. If he sells 43 brownies and 23 cheesecakes, how much does he raise?
+Shiela buys 5 mobile phones at $150 each on a 3-month plan. Each phone incurs a 2% interest charge. What is her monthly payment?
+Luke builds sandcastles at the beach, where each upper level is half the area of the one below it. If the top level is 16 square feet, what is the average area per level for a 4-level castle?
+If Raymond's laundry is half what Sarah does, and Sarah's load is four times David's, how much more laundry does Raymond do than David when Sarah handles 400 pounds?
+John has adopted a dog and takes it to the groomer that charges $100. He receives a 30% discount for being a newcomer. What is the cost of the grooming?
+Charlie starts with 10 stickers, buys 21 more, gets 23 as presents, donates 9 to his sister, and uses 28 for a card. How many stickers does he have left?
+Grace's weight is 125 lbs. Alex's weight is four times Grace's and then 2 lbs less. Together, how much do they weigh in pounds?
+Dan grows 3 rose bushes. Each bush has 25 roses, and each rose has 8 thorns. How many thorns are there in total?
+Gene assembles a quilt from t-shirts, each representing a vacation. He travels 4 times a year since age 23, and is now 34. How many quilt blocks does Gene have?
+Greg’s alarm rings 3 times a day. The first ring lasts 4 chimes, the second lasts 3 times as long, and the third lasts half the time of the second. How many chimes in total did the alarm make?
+Marilyn’s first album sold 10 times as many copies as Harald’s. Together, they sold 88,000 copies. How many copies did Harald sell?
+Ted the T-Rex plans to bring potato salad to the picnic. Adults eat 10 lbs, and children eat 5 lbs. If there are 20 adults and 5 children, how much potato salad must Ted prepare?
+Jan has 3 times as many pets as Marcia, and Marcia has 2 more pets than Cindy, who has 4. How many pets do Jan, Marcia, and Cindy have in total?
+With four kids—Amy, Jackson, Corey, and James—Emily finds that Amy is 5 years elder than Jackson and 2 years junior to Corey. If James is 10 and 1 year younger than Corey, what is Jackson's current age?
+Lee finished the 400-meter hurdles 2 seconds faster than Gerald. After a diet change, Gerald's speed increased by 10%. With Lee completing the race in 38 seconds, how long will Gerald take now?
+Harry slept 9 hours last night, but his friend James only slept 2/3 of that time. How many more hours did Harry sleep than James?
+Mary received 18 new potted plants and has 2 plants on each of her 40 window ledges. She plans to give away 1 plant from every ledge. How many plants will remain?
+Jerome had 4 friends over. His first friend rang the doorbell 20 times, the second friend rang it an extra quarter of that amount, the third rang it 10 more times than the fourth, who rang it 60 times. How many total doorbell rings were there?
+John eats breakfast, lunch, and dinner each weekday, and another meal before bed. Weekends see him enjoying a soda with dinner. How much water does John drink in a week?
+Cody eats cookies three times more than Amir does. If Amir has 5 cookies, together they consume how many cookies?
+John owns 3 boxes, each 5 inches by 6 inches by 4 inches, with 1-inch thick walls. What is the total inner volume of the boxes combined?
+Henry planned to bake twice as many cookies as last year but made 15 more than he intended. After dropping 5, he ended up with 110 cookies. How many did he bake last year?
+Jamal's phone holds 6 times more photos than Brittany's. Brittany’s phone can store 50 times the number of birds in Jamal’s zoo duck photo. If Jamal’s phone holds 1800 photos, how many ducks are in his photo?
+Four years ago, Adrien's salary was 30% higher than Lylah’s. Four years later, Adrien’s salary increased by 40% compared to that time. If Adrien earned $40,000 four years ago, what are their combined salaries now?
+Morisette brought 5 apples and 8 oranges, while Kael brought twice as many apples and half as many oranges as Morisette. How many fruits do they have in total?
+Rosie runs 10 miles per hour for 3 hours and then runs 5 miles per hour for the next 4 hours. How many miles did she run in total?
+Jennie stamps one-third of 60 letters, while 30 are already stamped. How many letters were originally stamped?
+Dylan bought 38 chicken sausages and 6 more fish sausages than chicken sausages. How many sausages did Dylan buy?
+After transferring schools, Amy has 20 more friends than Lily. If Lily has 50 friends, how many friends do Amy and Lily have in total?
+Joseph spent $500 in May and $60 less in June. What was his total expenditure for both months?
+At the carnival, Pam rode the roller coaster twice, while Fred rode it 4 times. Afterward, they each enjoyed the luge twice. How many tickets did they use in total?
+Walt walked 4 miles on Monday, 6 times that on Tuesday, and a total of 41 miles over three days. How many miles did he walk on Wednesday?
+Each month, Tom schedules four car washes. If the cost of each wash is $15, what is his yearly total?
+Bobby owns 5 fewer video games than three times the number Brian has. If Brian owns 20 games, how many games does Bobby have?
+Mark took 8 hours for a test with 75 questions, answering 5 questions per hour. Today he took 6 hours to complete a 100-question test at the same pace. How many questions did he leave incomplete?
+John spends $2 on milk, $3 on eggs, $3 on light bulbs, $3 on cups, and $4 on roach traps. If nonfood items are taxed at 10%, what is his total expenditure?
+John grows pineapples on 10 hectares, with 100 pineapples per hectare. He harvests quarterly. How many pineapples does he collect in a year?
+Johnny is collecting legos. He has a set with 500 pieces, another set with 1500 pieces, and a third set with 375 pieces. How many pieces of lego does Johnny have?
+Brittany and her mom visited the museum, where adult tickets were $12 and kids' tickets were $10. Brittany's mom bought one adult and one child ticket and got $8 back. How much money did she hand over to the cashier?
+If Charlie's Facebook friends count is three times Dorothy's and James's is four times hers, how many friends does James have if Charlie's count is 12?
+Steve and Tim are racing home. Steve needs to travel 3 miles at 440 feet per minute, while Tim travels 2 miles at 264 feet per minute. How long will the winner wait before the loser arrives home?
+Carl bought 10 packs of cookies, each containing 6 cookies, at $0.10 per cookie. How much change does Carl have if he pays with a $10 note?
+Dave bought a pack of fries and ate 14 before a seagull took them. The seagull ate half of what Dave had consumed, and then 3 pigeons each took 3 fries. A raccoon stole two-thirds of the remaining fries, and ants took one fry. How many fries were left in the pack?
+Kimo has 3 one-hour classes on Monday, Wednesday, and Friday, and 2 two-hour classes on Tuesday and Thursday. In a 16-week semester, how many hours of classes does he attend?
+Bill bakes 300 rolls, 120 croissants, and 60 baguettes each day. If the rolls are 4 inches, croissants 6 inches, and baguettes 24 inches, what is the total length of baked goods in feet if lined up end to end?
+Blake and Kelly are racing on a 100-yard football field for 15 minutes. Blake runs 15 back-and-forth laps, while Kelly runs 34 laps, each going to the 40-yard line and back. What distance advantage does Blake have over Kelly?
+Raphael bought 4 pens at $1.50 each, 2 notebooks at $4 each, and bond paper for $20. What was his total expenditure?
+Finn spotted 11 tadpoles, then 6 emerged from under a lily pad, and 2 took shelter under a rock. How many tadpoles does Finn now see?
+Jackie can handle her taxes but loses $35 in freelance work for 3 hours. An accountant charges $90. What financial benefit does Jackie gain by hiring the accountant?
+Seth's age is double that of Brooke's. After 2 years, their combined ages will total 28. What is Seth’s age?
+Jimmy has $2 more than twice Ethel’s $8. How much money does Jimmy have?
+At the Caboose, there are four birds. Sally Two is 3 years older than Granny Red, whose age is double that of Sally Four. Sally Four shares her age with Sally Thirtytwo, who is 8. How old are all four birds combined?
+Jessica has monthly debt repayments of $300 for student loans, $200 for her credit card, and $500 for her mortgage. She plans to pay 50% more. What is her total annual payment?
+Juan and Carlos make lemonade. Each gallon costs $3 for lemons and $2 for sugar, producing 20 glasses at $0.50 each. Their profit is $25. How much did they spend on lemons?
+Rani has 10 more crabs than Monic, and Monic has 4 fewer than Bo, who has 40 crabs. How many crabs do they have together?
+Sandra ordered roses and carnations, and Fred delivered part of her order. She requested 4 times as many red roses as white carnations and 200 pink calla lilies, which is 5 times the white carnations. How many red roses does Fred still need to deliver?
+Mark is 2 years younger than Jean. Two years ago, Mark was 5 years older than half of Jan’s age. If Jan is 30, how old is Jean?
+While rolling a six-sided die, what is the percentage difference in the likelihood of Jerry rolling a number greater than 3 versus rolling two even numbers in a row?
+Jenna and her mother picked apples. Jenna picked half as many as her mother, who picked 20. How many apples did they pick in total?
+Russell distributes straw to the rodents. Rats have 3 cages with 6 pieces each, hamsters 10 cages with 5 each, and rabbits 1 cage with 20. If the total is 160 pieces of straw, how many rats are there per cage?
+Benedict lent Mandy $100 with a 2% monthly interest. How much does Mandy owe after 3 months?
+John picked peaches for 3 hours, gathering 2 peaches per minute. How many peaches did he collect?
+Annually, Tom plants 10 trees and cuts down 2. Starting with 50 trees, how many trees does he have after 10 years if 30% of them die?
+Sue's neighbors prank her by placing 18 pink flamingos in her yard on Friday, painting a third of them white by Saturday, and adding 18 more flamingos on Sunday. How many more pink flamingos than white flamingos were visible by noon on Sunday?
+Initially, Elaine owned 20 Pokemon cards. After a month, she acquired threefold that quantity. In the second month, she collected 20 cards fewer than her first-month total. In the third month, her collection was double the sum of all cards from the first two months. What is her overall total of Pokemon cards now?
+Mark edits 1000 sentences weekly for two publishers with different pay rates, where Publisher B pays double that of Publisher A. If Publisher A pays 5 cents per sentence, how much does Mark earn weekly in cents?
+John wins a $5000 award and gets a 5% salary raise. If he earns $2000 per week for a year and received the award on January 1st, how much does he earn in total that year?
+At her 10-acre vineyard, Josie grows grapes, yielding 5 tons per acre, which translates to 2 barrels of wine per ton. How many barrels of wine does she produce annually?
+Janet has 22 green pens and 10 yellow pens initially. She buys 6 bags of blue pens and 2 bags of red pens. Each blue bag contains 9 pens, and each red bag contains 6 pens. How many pens does Janet now own?
+Brinley is in a math class with six tests per semester, and Mr. Bert allows students to drop their lowest score. Brinley’s first five test scores are 89, 71, 92, 100, and 86. What score must she get on the sixth test to average 93?
+Joe's trick-or-treat treat bag includes 25 chocolate bars and 80 candied apples. The chocolates are twice as heavy as the apples. Each chocolate weighs 40 grams. How heavy is Joe's candy collection in grams?
+Rose buys 4 cakes on Monday, 12 cakes on Tuesday, and 60 cakes on Wednesday. How many cakes did she buy in total over the three days?
+Sara needs to buy a $30 jacket and $40 in shoes, earning $5 per babysitting job and $4 for each lawn mowing. How many times must she mow the lawn to afford both the jacket and shoes, starting with $10 saved?
+Jerry’s chickens produce eggs: red chickens lay 3 eggs per day, and white chickens lay 5. Jerry collects 42 eggs daily and has 2 more white chickens than red chickens. How many red chickens does he have?
+Gary enjoys walking the circumference of the local park, a rectangle measuring 1.5 miles by 6 miles. At a pace of 3 miles per hour, what is the duration of his walk?
+Jerry's two pools leak at 4 gallons per minute. Four minutes ago, the large pool held twice as much water as the small pool. Now, the large pool holds four times the amount. How much water remains in the small pool?
+To purchase shoes priced at $320 and a belt for $32, how many hours does Lori need to work at her $8-an-hour part-time job?
+Janeth takes out a loan of $2000 with a 10% additional charge. If she pays $165 per month, what is her remaining balance after 12 months?
+Harriet is 21 years old. Adrian is three times her age, and Zack is twice her age. What is the average age of the three in three years?
+In a board game, the total score of four students is 251 points. Naomi has 68 points. Yuri scores 10 more than half of Naomi’s score, and Brianna scores 17 more than Naomi. How many points does Jojo have?
+He sows 90 geraniums, and 40 fewer petunias than that. How many flowers in total does Andy plant?
+Carlos rents a canoe for $30 per hour, and Benji rents a banana boat raft for $18 per hour. Carlos rents for 3 hours and Benji for 5. What is the total cost of their rentals?
+Andrew travels from New Jersey to Rochester, spending 6 days on the bus and 3 days in a car. How many total days will Andrew spend traveling to Rochester by bus and back by car?
+James owns 30 fire-type, 20 grass-type, and 40 water-type Pokemon cards. He loses 8 water types and gains 14 grass types. What is the percentage of water-type cards in his collection?
+Chad orders a burrito with extra toppings: $2 for extra meat, $1 for extra cheese, $1 for avocado, and two sauces at $0.25 each. He upgrades to chips and a drink for $3. After using a $5 gift card, what is his remaining balance?
+At a watermelon farm, Ashlyn picks 30% of 120 watermelons. Two weeks later, she picks 3/4 of the remaining watermelons. How many unripe watermelons are left?
+Mark buys 12 cars at $20,000 each, paying a 10% tax and $1000 per car for registration. What is his total expenditure?
+Kylie collects 5 more shells than Robert, who gathers 20. On Tuesday, Kylie collects twice as many shells as she did on Monday. How many shells did Kylie collect on Tuesday?
+Steve eats 6 cherry tomatoes daily, double the amount of his girlfriend. Each vine produces 3 tomatoes weekly. How many vines does Steve need to meet his daily tomato intake?
+John orders pizzas for himself and 20 friends, making sure everyone gets 4 slices. How many pizzas should John order if each pizza has 8 slices?
+Johnny starts with $20, adds $10, and invests the entire amount. After a year, his investment triples. How much money does Johnny have after a year?
+Jessa, 20, has a sister Joan, 5 years older, and Mary, 2 years younger than Joan. How much do the three girls collectively age over time?
+James has 6 more candies than Robert. John has twice as many candies as Robert. If John has 54 candies, how many more candies does he have than James?
+Mike had 5 pen pals but ended relationships with 2. Each pen pal writes him 2 times a week, and each letter is 5 pages. He writes 1 page every 6 minutes. How many hours does Mike spend writing each week?
+Jason has 1000 minutes on his monthly phone plan. He makes a 15-minute daily call to his boss and has 300 extra minutes of calls. How many minutes does he have left at the end of the month?
+Griffin starts with 24 fries. Kyle takes 5, Billy takes twice what Kyle took, and Ginger gives Griffin some fries. By the end, Griffin has 27 fries. How many fries did Ginger give Griffin?
+Jean hires a makeup artist for 6 hours a day, 4 days a week, for a 5-week project. The artist charges $250 per hour, offering a 10% discount. How much does Jean pay in total for the makeup services?
+Sue eats 4 times as many cookies as her sister on Monday, and twice as many on Tuesday. Her sister eats 5 cookies on Monday and 13 on Tuesday. How many more calories did Sue consume than her sister, given that each cookie is 200 calories?
+Rick kills 10 wolves and 15 cougars. Today, he kills three times as many wolves as cougars and three fewer cougars than yesterday. How many animals did Rick kill in total?
+Bill takes the elevator to a floor that’s calculated as 4 times his current floor plus 6. If he starts on the 3rd floor, which floor does he occupy now?
+Shelly’s children made 30 water slide trips: Mitchel 30, Anne 30% fewer, and Robert 4 times as many as Anne. How many trips did Robert make?
+Mr. Sylas owns 10 stalls, each with 20 cows. He buys 40 more cows, distributing them evenly among the stalls. How many cows are in 8 of the stalls?
+Brady has 100 pennies, 40 nickels, 20 dimes, and 40 dollar bills. What is the total value of his money in dollars?
+Nancy owes a $0.50 fine per overdue book, plus a $2.00 standard fee. How much does she owe in total for 8 overdue books?
+Andrea has 52 apples, 8 more than Jamal, and half the number of bananas that Jamal has. If Jamal has 4 more bananas than apples, how many total fruits do they have?
+Carla bakes 36 cookies today and 30 more tomorrow, requiring 2 cups of flour for every dozen cookies. How many cups of flour does she need in total?
+Chris has 6 trees, Ferdinand has half as many, and Harry has 5 more than double Ferdinand’s total. What is the difference in the number of trees between Harry and Ferdinand?
+Carmen has $100, Samantha $25 more, and Daisy $50 more than Samantha. What is their total combined amount?
+Mr. Tan sold his house for $400,000, paying 3% in transfer fees and a 5% brokerage commission. After covering his remaining $250,000 mortgage, how much does Mr. Tan receive from the sale?
+Mary buys 3 bags of M&Ms. The first bag has 300 M&Ms in it, the second bag includes 12 more M&Ms than the first, and the third bag, which is defective, has only half the M&Ms of the first. Can you calculate the total M&Ms that Mary purchased?
+John owns two homes, each with 3 bedrooms, and each bedroom has 2 windows. Each house has 4 extra windows not in the bedrooms. How many windows are there in total across both homes?
+Terri is knitting a sweater with 900 stitches in the body, one-tenth of that in the collar, and twice the collar's stitches in the rosette. The total project involves 1800 stitches. How many stitches are used for each sleeve?
+Mrs. Rylan bought 20 packets of tomato seeds and 80 packets of celery seeds. Tomato packets cost $40 each, and celery packets are $30 each. How much did she spend on the seeds in total?
+Matthew takes 3 minutes for a small hole and 10 minutes for a large hole. How many hours to dig 30 small holes and 15 large ones?
+Mico and Marco's combined ages are 20. In 10 years, what will their total age be?
+Ruby is 6 times Sam's age. In 9 years, she will be 3 times Sam’s age. What is Sam's current age?
+Peter bought 20 popsicles for $0.25 apiece and 4 ice cream bars for $0.50 each. What is his total expenditure in dollars?
+Maddy is buying pizza for her cousin's soccer game. The team has 12 members, 3 coaches, and each member brings 2 guests. Each pizza serves 3 people and costs $15. How much will Maddy pay?
+Alani made 20 stories, Braylen made 40, and Margot made 60. If each doubles their total in week 2, how many stories do they make altogether?
+If Ann is 9 and her brother is double her age, what will his age be in 3 years?
+After buying a soda for 55 cents, how much money does Kelly have remaining, with 5 quarters and 2 dimes?
+Ali has 22 medals. Izzy has 5 fewer medals than Ali. Together, they have 10 times fewer than the total number of counting medals awarded. How many counting medals were given out?
+Susan earns $5 every 10 minutes online. She works from 8 a.m. to 11 a.m. with a 30-minute break. How much does she make?
+After 3 rounds, Mike has 21 points, Jim is 3 points behind, and Tony has double Mike's points. In the fourth round, players with over 20 points get 1 extra point. How many total points do they have?
+Sam's bread business targets 120 crates per week. He sold 20 crates on the weekend, 15 on Tuesday, 12 on Wednesday, and 18 on Thursday. How many crates is he short of his goal?
+John drives 30 miles each way to work, 5 days a week, for 50 weeks. He pays $2 per mile and gives his driver a $150 monthly tip. How much does he spend annually on driving?
+Watson works 10 hours a day, 5 days a week, earning $10 an hour and a $300 weekly bonus if the company succeeds. How much did he earn in April if the company was successful all month?
+John arm-wrestled with 20 people. He won against 80% of them. How many did he lose to?
+Sandy needs 4 weeks to lose the same weight Joey loses in 1 week. If Joey loses 8 pounds in 4 weeks, how many weeks will Sandy need to lose the same weight?
+The Lots-of-Limbs Serum gives a drinker an extra arm every 3 days and a leg every 5 days. If someone takes the serum for 15 days, how many new limbs will they grow?
+Theo has $6000 for a business trip. He buys 6 suits at $100 each, 3 suitcases at $50 each, and a flight for $700. He wants to save $2000. How much can he spend on gifts for his business partners?
+Trent is 5 years older than Jane, who is 3 years younger than Quinn, who is 30. How old is Trent?
+Six years ago, Noah's age was half of Cera's age, and Chile’s population was half of what it is now. If Cera is now 46 and Chile's population was 3000 times Noah's age, what is the current population of Chile?
+Martha invited 2 families with 6 people and 3 families with 4 people. After 8 guests couldn’t come and another 2 had other plans, how many people will attend her event?
+Solomon bought 20 marbles from Johanna, adding them to his store's 50 marbles. His dad contributed 2/5 of the marbles he bought. If each marble weighs 2 kg, what is the total weight of the marbles in the store?
+To fill a pool that's 6 ft by 4 ft and 5 ft deep, John's spending $0.1 per cubic foot. How much will it cost to fill it completely?
+Jam has 3 boxes and 2 loose pencils, totaling 26 pencils. Meg has 46 pencils. How many boxes are needed to store both their pencils?
+In Ralph's shop, customers trade 2 old records for 1 new one. Five customers bring old records and get 7 new ones. How many old records did they bring?
+Oscar had 24 lollipops, ate 2 on his way to school, gave away 14, then bought twice as many as he gave away. After eating 3 more and 2 in the morning, how many lollipops does he have left?
+Erin starts with 7 lollipops, gets 10 more from her mother, and gives 3 to Ella. How many does Erin have now?
+DJ has 8 paintball guns, Nick has 10, RJ has 1, and Richard has 5. How many guns will each person have if they divide them equally?
+Maria bought 8 stocks at $8 each. The stock’s price increased by 50% in year 1 and decreased by 25% in year 2. What is the total value of her stocks after these changes?
+Luke ate 2 hot dogs, Thomas ate 3 times as many, and John ate 50% of what Thomas ate. How many more hot dogs did John eat than Luke?
+Josh practices juggling with 3 balls and adds one more each week for 4 weeks. On talent show day, he drops 3 balls, and 2 are retrieved while 1 is lost. How many balls is Josh juggling?
+Tyson runs 5000 meters daily but plans to increase his distance by 1/5 each day. If he runs for the whole month of June, how far will he run in total?
+Jenny buys a package of cookies each week, with 36 cookies per package. She packs 4 cookies for her son's lunch 5 days a week and her husband eats 1 cookie daily for 7 days. How many cookies does Jenny eat?
+Madeline spends $25 per week on food, $20 per month on treats, and $100 monthly on medication for her dog. What is her total yearly expenditure on her dog?
+Andrea saved some money, bought an $11 sweater, and gave $4 to her brother. Starting with $36, how much did Andrea save?
+John spent 6 hours boating, half that time swimming, and 6 hours watching 3 shows. These shows took 30% of his total time, and sightseeing took 40%. How much time did he spend sightseeing?
+Dean was given $28 by his mother. He bought 6 toy cars at $2 each and 5 teddy bears at $1 each, then received an additional $10 from her. How much money does Dean have left?
+Marisa receives $5 a day, buys 4 lollipops at 25 cents each, and saves the rest. How much does she save in 5 days?
+Mark makes customized dog beds. Each Rottweiler bed needs 8 pounds of stuffing, a chihuahua bed needs 2 pounds, and a collie bed needs the average of the other two. How much stuffing does he need for 4 chihuahua beds and 3 collie beds?
+John drove 200 miles to visit a friend and then 240 miles back. How long was the entire trip?
+Jane needs at least 42 points from 3 tests to pass. She has 15 on the first and 18 on the second. How many points does she need on the third test?
+Erin scored 14 points, which is 3 times Sara's 8 points. How many points did Erin have originally?
+Hand-painted wallpaper costs $400. DIY can save 20% on materials. How much will Ethan spend if he paints the wallpaper himself?
+Hallie practices dance 1 hour on Tuesdays, 2 hours on Thursdays, and double that on Saturdays. How many hours of dance practice does she have each week?
+Mrs. Sherman made 12 rolls. After feeding 6 to her kids, she divided the rest into 8 pieces each for the chickens. How many pieces did the chickens get?
+Lucy’s apples sell for $4 each. She sold all her apples on Monday, picked 12 on Tuesday, and double that on Wednesday. She made $56 on Monday. How many apples did she collect?
+Lindsay washed 10 pairs and 15 single socks from a load of 50. How many socks are missing?
+Rachel got 23 cookies and received 42 more from Janet. After her brother ate 44, how many cookies does she have left?
+Cho hiked 8 hours at 14 km/h, and Chloe hiked 5 hours at 9 km/h. How much farther did Cho travel?
+Axel has 50 silver pesos and 80 gold pesos. Anna has twice the silver pesos and 40 more gold pesos. How much do they have together?
+By selling three-fifths of his property, Mr. Ruther keeps 12.8 hectares. How big was his land before?
+Lisa is part of a choir with 52 members, split equally between boys and girls. When the female singers perform, half the performers cannot attend due to a bus issue, and the three teachers join. How many people performed?
+James delivered 66 messages to Ms. Thompson and one-third of that number to Mr. Yu. What is the total number of messages James delivered?
+David and Dasha enjoyed 9 rides at the carnival, each requiring 2 tickets at $2 each. David chose a bracelet for $30, while Dasha bought tickets. How much money did David save?
+Monica wraps gifts for her family, friends, and teachers, needing 144 inches of ribbon. She has 6 gifts for family, 4 for friends, and 2 for teachers. How many inches of ribbon can she use for each bow?
+Tim switches from cable to streaming services, saving by ending his $60 cable plan. He pays $10 monthly for Netflix. Hulu and Disney Plus are usually $10 each per month, but by bundling, he receives a 20% discount. How much does he save by switching to Netflix, Hulu, and Disney Plus with a 20% discount?
+Erica made 20 Valentine's cards. Her dad gave her 2 boxes with 15 cards each. She gave out 24 to classmates, 5 to family, and received 17 from others. How many cards does she have left?
+Jenny has a pizza with 12 slices. She gives 1/3 to Bill and 1/4 to Mark, then eats 2 slices. How many slices are left?
+Mark has $50 in his bank account and earns $10 daily. How many days does it take him to save $300 for a bike?
+Nancy sees 90 spiders, one-third of which are millipedes, and the number of stink bugs is double the millipedes minus 12. How many bugs did she find?
+Alice is 7 years older than Beth, and Beth is 5 years older than Erica. If Erica is 30, how much older is Alice than Erica?
+One glass contains 8 ounces of milk. John has 2 glasses. Each ounce has 3 calories. How many calories does he ingest in total?
+Mark follows a recipe for quadruple batch brownies. Each batch requires 3 cups of flour and 1 cup of milk. Flour comes in 2-cup bags, and milk in 2-cup bottles. How many more bags of flour does he need than bottles of milk?
+Mel's 900-watt AC runs 8 hours daily. By reducing usage by 5 hours a day, how many kilowatt-hours does he save over 30 days?
+Jane identifies two zebras having 17 stripes each, one with 36 stripes, and another having half that quantity. What is the average count of stripes on these zebras?
+Allan has twice as many corns as cannolis, currently 40 cannolis. After buying 60 more cannolis and 40 fewer corns, how many total items does he have?
+Elliott took 5000 steps through school and another 1000 steps with a friend. After a jog, he has 2000 steps left to reach 10,000 steps. How many steps did he jog?
+Carolyn's company hires 40 workers at $15 per hour for 40 hours a week. After a quarter of the contracts expire in June, how much did the company pay for 2 months of work?
+"Buy 1 pound for $3 and receive a second pound at half price." She picked up 2 pounds. Additionally, she purchased a bag of assorted seashells for $1.50 and 4 magnets priced at $0.25 each. What is the remaining amount of money Sally has?
+Tim buys fireworks for $400, a second pack costing twice as much, and a finale firework for $150. After a 20% discount, what was the total cost?
+Joanne picks apples in her orchard, gathering 30 from tall trees, 15 from short trees, and more from average trees. Her sister picks double the tall and triple the short ones, but none from average trees. Together, they have 500 apples. How many did Joanne pick from average trees?
+Tom traveled 200 kilometers per day for 4 days in Europe. He then traveled 30% less for 2 days, took a day off, and traveled 300 kilometers daily for the second week. What was his total distance traveled?
+Zack's locker is half the size of Timothy's, and Peter's locker is a quarter of Zack's. If Peter’s locker is 5 cubic inches, how big is Timothy's locker?
+Stanley drops his comb from a 10,000-foot mountain. It falls 4,000 feet, and his brother Oliver is at 3,000 feet. How far must Oliver climb to reach the comb?
+Mr. Josue was lent $4000 by one bank and double that by another. With an initial capital of $5000, how much does he have now?
+Kenny is selling Pokemon cards worth $1.5 each to afford a $100 ticket. He keeps a third of the cards and has $50 left after buying the ticket. How many cards did he have to start with?
+Indras' name has 6 letters. Her sister has 4 more letters than half of that number. How many letters do their names have together?
+Dora is buying a skipping rope, a board game, and a ball. She saves $2 and gets $16 from her mother. How much more does she need to buy everything?
+Prince Thaddeus kills 100 dragons, Prince Arthur kills 75, and Prince Walter kills twice as many as Arthur. Prince Bruce kills one-fifth of Walter’s total. How many dragons has Prince Bruce slain?
+Josey needs 1/4 of a container of gasoline for her lawnmower. If 15 gallons are equally divided into 5 containers, how much does she need in pints?
+Ray has 25 lollipops, keeps 5, and shares the rest equally with 4 friends. How many lollipops does each friend get?
+Bernadette takes 4 times longer than Wayne to get to the premiere. Wayne’s ride takes 4 minutes. How much earlier must Bernadette leave to arrive before Wayne?
+Elizabeth chooses 1 pack of red beads and 2 packs of clear beads, while Margareth picks 3 packs of blue beads and 4 packs of red beads. How many more beads does one sister have than the other, considering each pack holds 20 beads?
+Jon runs, cycles, and runs again in a triathlon. Jon swims in 40 minutes, bicycles for 1 hour and 20 minutes, and runs for 50 minutes. James swims 10% faster and cycles 5 minutes longer. Jon wins by 10 minutes. How long did James run?
+Movie A is one-quarter of Movie B's length, and Movie B is 5 minutes longer than Movie C, which lasts 1.25 hours. How long is Movie A in minutes?
+Michael races horses, and each horse eats 1/2 a bale of hay per mile. Each bale costs $3. After 30 minutes at 32 MPH, how much change does Michael have left from $30?
+Rozanne's making eggnog for her family using 48 eggs from cartons and 2 more from the pantry. Each tray holds 5 glasses. With 5 eggs needed per glass, how many trays can she show off?
+Joey starts with 214 points and scores 26 more. Marcy has 225 points and scores 10. How far ahead is Joey now?
+Initially, Jenna possesses 8 sapphires. She trades 3 sapphires for 2 rubies. With sapphires valued at $800 and rubies at $1200, what is the overall value of her jewels?
+Every day, Marin and Nancy consume 4 apples. What's the total after 30 days?
+Bob fills his 10 raised beds, each 2 feet wide, 8 feet long, and 2 feet tall, with 2 cubic feet of soil per bag. How much will he spend on the soil if each bag costs $12?
+Katelyn spots 50 fairies. After 20 minutes, half that number flies over. 10 minutes later, 30 leave. How many fairies are left?
+Jennifer's dog has 8 puppies, and 3 have spots. Brandon’s dog has 12 puppies, and 4 are spotted. What percentage of the total puppies are spotted?
+Grayson recycles cans and bottles. Each can is worth 2 cents, and each bottle is worth 3 cents. How much does she earn from 4 weeks of recycling 3 cans and 5 bottles weekly?
+If Shondra has 7 fewer plants than Toni, and Toni has 60% more plants than Frederick, who has 10, then how many plants does Shondra have?
+Ali has $21 and received half of Leila’s $100. How much money does Ali now have?
+Finley runs a 100-meter race, starting first, then dropping 5 places, gaining 2, and dropping 3 more. What was her final position?
+Miss Maria collects 6 decks of basketball cards and 5 boxes of baseball cards. After saving 50 cards, she shares the rest. How many students received 10 cards each?
+Becky bought 20 apples at 45 cents each, saving $1. Kelly got 20 apples at 50 cents each with a 10% discount. How much more did Kelly pay than Becky?
+Bob handles the laundry in a hotel with 80 rooms. Each room has 2 sheets, 1 comforter, twice the number of pillowcases as sheets, and twice the number of towels as pillowcases. How many total laundry pieces are there in the hotel?
+Starting at 200 shoes, Fireman Frank will gain 5 pairs on Monday, 15 pairs on Wednesday, and 30 pairs on Friday. After he disposes of 180 shoes on Saturday, what will his total be on Sunday?
+Mary has 6 jars of sprinkles, each decorating 8 cupcakes. If she bakes enough cupcakes to use all her sprinkles and each pan holds 12 cupcakes, how many pans should she bake?
+Theo acquired a pen for $2 and a piece of paper priced at $1 under three times the cost of the pen. She paid the cashier $10. What change did Theo receive?
+Marissa’s class has 30 students, each with 10 pencils. After two months, 1/5 of the pencils were used, and by year-end, 1/3 of the remaining pencils were left. How many pencils are still there?
+Matt can have cookies equal to half the carrot sticks he eats, plus two more for doing chores. If Matt wants 5 cookies, how many carrot sticks must he eat?
+Benny saw a 10-foot shark with two 6-inch remoras attached. What percentage of the shark's length do the remoras represent?
+Jason needs 240 minutes of walking to break in new shoes. If he practices 4 times a week for 3 weeks, how many minutes should he walk each day?
+Sarah spent $300 on $15 books and shared them with her four children. How many books did each child get?
+Tom plans a 3-day anniversary trip for his wife. Each plane ticket costs $5000, and the hotel price is raised by 20%. The regular price for a hotel room is $1500 per day. What will the total trip cost?
+Ben has 4 blue and 3 yellow paint tubes. Jasper has half as many blue tubes and three times as many yellow tubes. How many tubes of paint does Jasper have?
+Keegan and Tashay want to raise $200 for baseball camp. By 3 pm, Keegan earned $83, and Tashay earned $91. How much more do they need to meet their goal?
+Gabriel and Luri each own a portable media player with a capacity for 100 songs. Gabriel has 20 songs, and Luri has three times that number. How many more songs can Gabriel add than Luri?
+Stetson promised to pay Alec $10 for every orange eaten. He ate 2/5 of 60 oranges. How much did Stetson lose financially?
+Jillian's purse is $20 less than three times the cost of her shoes. With her shoes priced at $80, what did her handbag cost?
+James runs 12 miles a day, 5 days a week, at a speed of 10 miles per hour. How many hours does he spend running each week?
+Uncle Ben feeds his 4 horses 5 pounds of oats per meal, 2 meals a day. How many 50-pound bags of oats will he need for 5 days?
+In Jana’s group of 27 puppies, two-thirds are Pomeranians, and one-third of the Pomeranians are female. How many female Pomeranians does she have?
+Sally buys one small pizza for $8 and a family-size pizza costing three times as much. What is her total expenditure?
+Brett is 14 years old. In four years, Angela will be three times his age. How old is Angela now?
+Ashley brought 5 boxes of 10 oranges each, and Brianne contributed 20 more oranges than Ashley. If 3 oranges are needed for one pie, how many pies can they bake?
+Mark is considering two venues for a surprise party. The first charges $200 plus $5 per guest for food, while the second charges $25 per guest, which includes food. How many guests must attend for the costs to be the same?
+Lily, David, and Bodhi collected 43 insects. Lily has 7 more than David, and David has half the number of insects as Bodhi. How many insects did Lily collect?
+In a lesson on knitting, Mariah's grandma guided her as Mariah used a quarter of a skein while her grandma utilized half. Each skein has 364 yards. How much yarn was used in all?
+Frederick wants to make popsicle sticks from wood. A 2x4 costs $4 and produces 200 sticks, while a 2x8 costs $6 and makes 400 sticks. If he has $24, what is the maximum number of popsicle sticks he can make?
+Janet takes two bus trips daily, 5 days a week, with each trip costing $2.20. How much could she save by purchasing a weekly bus pass for $20?
+Sophia and Rose bought onions and potatoes. Rose bought 4 times the quantity Sophia did. If Rose bought 12 onions and 4 potatoes, how many onions and potatoes did Sophia buy?
+Andy wants to lose 30 pounds by his birthday on July 19. He must burn 3,500 calories to lose a pound. How many calories must he burn daily to meet his goal?
+Gerald is employed at a daycare, earning $30 daily. After working a full week, he has spent $100. What amount remains with him?
+Hannah requires 60 ml of water per kilometer. If she runs 8 laps of 0.25 km each, how much water should she drink?
+Beginning with $500, Julie allocated 20% for garments and then took 25% of the leftover for CDs. How much money does she have remaining now?
+Tara bought 8 sets of 5 canvas bags for $4 each, then sold each for $8. How much profit did she make?
+Joe lands 25 punches each minute. The match has 5 rounds, each taking 3 minutes. How many punches does he deliver in total?
+An eighth-grade cookie baking contest was held. Kelsie baked twice as many cookies as Josh. Josh's batch was one-fourth the size of Suzanne's. Suzanne baked 36 cookies. How many cookies did Kelsie bake?
+After picking up four $10 and six $20 bills from helping out on Mr. James' farm, Ali shares half of his earnings with his sister and then spends 3/5 of what's left on dinner. Find out how much money he has after eating.
+Royce needs 40 minutes more than twice as long as Rob to roof a house. If Rob takes 2 hours, then how long does Royce take?
+Martha is knitting for her triplet grandchildren. Each hat needs 2 skeins, each scarf 4, each sweater 12, each pair of mittens 1, and each pair of socks 2. How many skeins of wool does she need?
+Chris has 100 math problems to solve. He finished 12 on Monday, three times that number on Tuesday, and one-fourth of the remainder by Wednesday. How many problems does he have left by Thursday?
+Tony can pick 6 quarts of strawberries per hour, Bobby picks 1 less quart per hour, Kathy picks twice as many as Bobby, and Ricky picks 2 fewer quarts than Kathy. How many quarts can they pick together in one hour?
+Jackson wants to plant tulips, with 6 red tulips and 8 blue tulips per row. If he has 36 red tulips and 24 blue tulips, how many rows will he plant?
+Ophelia and Jenna share an apartment. Ophelia has 20 sofas, and they have 2 fewer sofas than chairs. Jenna has 3 times as many chairs as Ophelia. How many chairs and sofas do they have together?
+Tom bought a $4 CD and a $48 headphone set. How many more CDs could he have bought instead of the headphone set?
+Josh worked out 4 hours per week on average for 8 weeks, with 2 weeks of 5 hours and 1 week of 6 hours. How many total hours did he work out?
+Jame will be 27 in 5 years. His cousin will be 5 years younger than twice Jame’s age in 8 years. How many years apart are their ages now?
+Nick has twice as many candies as George. After George ate 5 candies, how many does Nick have now?
+Chenny is 10, and Alyana is 4 years younger. Anne is 2 years older than Alyana. How old is Anne?
+Elvis wants to save $1125 this month. He plans to save twice as much in the second half of the month as in the first half. How much should he save each day in the latter half?
+When Jairus completes a minor task, his compensation is $0.8, while Jenny's is $0.5. If they each finish 20 tasks, by how much will Jairus's earnings surpass Jenny's?
+Brad and Jeff are endeavoring to partition 100 dollars. Jeff acquires four times the quantity that Brad does. What is the dollar amount that Jeff receives?
+Jeff walks 3 miles to work each day and back. How many miles does he walk weekly if he works 5 days a week?
+Elise rewrites the alphabet twice, then writes half of it and repeats the process. How many letters does she write in total?
+Ali starts by calling 3 families, and each family calls 3 more. How many families will be contacted in the fourth round?
+Jonathan needs 2 extra toys to build a play set five times larger than James’s 80-toy. How many toys does Jonathan currently have?
+Daniel buys 5 notebooks, 2 pens, 1 calculator, and 1 geometry set. The store gives a 10% discount. How much does he pay in total?
+Antonella sells $2500 worth of goods, earning a 30% commission on the first $1000 and 10% on the rest. How much did she earn?
+Bill needs 2 bottles per guest for 70 guests. He already has 48 bottles. How many more does he need?
+Ray swims 1 mile in 16 minutes in cold water. In warm water, it takes him 34 minutes. How much longer does it take him to swim 3 miles on a hot day?
+John works 5 hours a day, 4 days a week, earning $2 per hour. How many weeks to save $80?
+Timothy’s locker is 24 cubic inches, and Zack’s locker is half that size. Peter’s locker is one-quarter of Zack’s size. What is Peter’s locker size?
+Octavia drinks half the recommended amount of coffee, while Juan drinks ten times as much. How much should Juan reduce?
+Mark weighs 150 pounds. Susan is 20 pounds lighter than Mark, and Bob weighs twice as much as Susan. What is the average weight?
+The pyramids are 32 degrees above the ground. The sun rises 5 degrees per hour for 10 hours. What is the new angle?
+one is 12, and the other is 4 years younger. A pack of five candles is available for $3. What will be James's total expenditure on the candles?
+Judy reads 15 minutes each night the first week, and 100 pages the second week. How many pages did she read in 2 weeks?
+Cody ate a third of 12 sandwiches, and Trevor ate a quarter. How many sandwiches are left?
+Sharon lost 7 teeth and received varying amounts of money. How much did the tooth fairy give her in total?
+Richie scored 80 goals. Mark scored 20 fewer than Richie, and Anna scored 45 fewer than Richie. How many goals did they score in total?
+Liam made $63, and Mitchell sold 21 lemonades at $4 each. How much more did Mitchell earn?
+Peter spends $5 each on wooden action figures and $2 each on plastic ones. How many will he buy with $70?
+At the end of the school year, Kate asked her teacher if she could have the 3 boxes of 64 crayons since they were all worn down to small pieces. The teacher agreed. Kate took the crayons home and decided to make crayon muffins by melting 8 small pieces of crayons together in a muffin tin that she placed in an oven for a few minutes. If she can sell her crayon muffins for $1.50 each and she can make a total of 24 muffins, how much money can Kate make?
+Michael is replacing his carpet. The room is 18x12 feet, and he needs to pay for installation, removal, and the carpet itself. What is the total cost?
+Mack counted 50 birds in the first 2 days, then 120 on days 4 and 5, and 20 on day 6. What is the average number of birds he saw per day?
+Diane starts with 20, adds half of it, divides by 5, then multiplies by the number minus 12. What’s the final value?
+Max watches 1 movie for 1 hour and 30 minutes, and another for 2 hours and 5 minutes. How many minutes in total?
+Herb’s house cost $76,000, and Juan’s is 30% cheaper. What is the total value of both houses?
+Judy has 12 cups and twice as many dishes. Her friend brought 40 cups and 20 more dishes. How many utensils in total?
+Pete buys 2 boxes of contact lenses at a 10% discount. How much does each pair cost?
+John and Jill help clear an attic at $10 per hour. Jill works 2 hours on Saturday and 1 hour on Sunday. John works double and triple the time on those days. What’s the earnings difference?
+Hannah burns 500 calories per hour for 2 hours and runs for 1 hour burning 600 calories. She is required to drink 100 ml of water for every 200 calories she burns. How much water should she drink?
+Alex invites 100 guests, each inviting 2 friends, and calls 10 friends, 8 of whom bring spouses. How many seats does she need?
+Amazon charges $16 for boots with $4 shipping. eBay sells them for $13, but the shipping charge is double. How much more do the boots cost on eBay?
+Mark’s beanstalk doubles in height daily. It starts at 4 feet. How many days until it is taller than a 20-foot window?
+In a 100-gram serving, mushrooms pack 3 grams of protein. If John eats 200 grams daily, how much protein does he get in a week?
+Jerry was half his current age 5 years ago. How old will he be in 3 years?
+George needs to pay $2000 per implant and $500 for one crown. He has a $600 deposit. How many hours must he work to pay for his dental work?
+Steve buys 1 game a month for a year, then 2, then 4, plus 5 each Christmas. How many games does he have after 3 years?
+Ruiz makes 120 pounds of chocolate in 2 hours, and Marissa makes 3/4 of that in 1 hour. How much chocolate do they make in 12 hours?
+Patrick sells 15 cups an hour for 4 hours at $0.50 each, then 10 cups an hour for 2 hours at $0.60. How much does he earn?
+A $24 bottle of shampoo lasts 120 washes. If Jackie uses 1 pump per wash, how much does each pump cost?
+Joe has $50 to spend on clothes. He buys a $25 shirt and $35 shorts, and there's a 30% off sale. How much will he pay after tax?
+Juan needs 1/4 pound of butter for each dozen croissants. He bakes 4 dozen per day for a week. How much butter does he need?
+Repaving costs $194 per meter. Monica's street is 150 meters. How much more will it cost to repave Lewis’ 490-meter street?
+John’s cancer research costs $100,000 for 5 months, then increases by 50% every month. How much did the research cost in total?
+Twice a week, Gary handles his laundry. For each load, he consumes 20 gallons of water, with each gallon costing $0.15. What is Gary's yearly water expense for doing laundry?
+Scarlett spends $10 on an aquarium, $5 on rocks, $6 on coral, $10 on fish, and $2 on fish food. What is her total spending?
+Jane’s beanstalk grows 3 inches in the first week, doubles in height the second week, and grows 4 more inches the third week. How tall is it after 3 weeks?
+Prince sells 15kg of meat every hour. He has 750kg of meat. How many days will it take him to sell it all?
+John undergoes therapy for 6 weeks, 2 hours per week, at $125 per hour. How much does the therapy cost in total?
+Jim has a 20-pack of gum. He chews one piece every two hours during his 8-hour school day. After school, he chews another piece. In the evening, he gives half of the remaining gum to his sister. How many pieces of gum does he have left at the end of the day?
+Arianna has 10 rows of flowers, each with 20 flowers. 4/5 of them have bloomed. How many flowers have bloomed?
+Ashley’s internet speed is 20 kb per second. How fast is her connection in Mb per hour (1 Mb = 1000 kb)?
+Adam wants to ride the tallest roller coaster at the park. To do that, he needs to be 4 feet tall. Adam is currently 40 inches tall and grows 2 inches each year. How many years until he is tall enough?
+James began working as a second-hand car salesman. He sold 10 cars for $25,000 each. The company spent 30% of the selling price to buy the cars. He gets a 10% cut of the profit. What was his profit?
+Max got stamps from the post office, including snowflakes, trucks, and roses. He bought 16 snowflake stamps. He bought 3 more truck stamps than snowflakes and 9 fewer rose stamps than truck stamps. How many stamps did Max get in total?
+Bob is 75 miles ahead, traveling at 55 mph, while Tom speeds up to 70 mph. When will Tom reach Bob?
+Tommy caught 3 more fish than Darren, and Darren got 6 fewer than Naomi. If Naomi snagged 17 fish, then Tommy caught how many?
+After enrolling in Karate for $60, Manny's folks said they won't sign him up again if each class costs over $10. If Manny skips how many out of 10 sessions can he still be eligible for future sign-ups?
+Julie works the cash register twice as fast as Jewel, who helps 50 customers daily. How many customers would they help in a week if they worked all week?
+In a running race, Paisley ran 4 miles. Reggie ran 5 times the distance of Paisley and 3 more miles than Lynn. How far did Lynn run?
+Tim got a 5% raise on his $20,000 monthly salary and a bonus of half a month’s pay. What is his total yearly salary?
+James bought 10 suits and 10 pairs of dress pants. He also bought 3 shirts for each suit. Each suit costs $750, each pair of pants costs one-fifth of that, and each shirt costs $60. How much did he spend in total?
+Steve is 60, and his wife is 4 years older than him. Their son is half of his mom's age, and his wife is 3 years younger than he is. What's the age of Steve's son's wife?
+Alisa biked at 12 miles per hour for 4.5 hours, and Stanley biked at 10 miles per hour for 2.5 hours. How many miles did they bike together?
+Bill is digging a well. He digs 4 feet of soil per hour and 2 feet of clay per hour. How long will it take him to dig 24 feet of soil and 8 feet of clay?
+Howie plans to buy cupcakes for his class. He can’t decide between vanilla and chocolate, so he buys both. If he buys 2 cupcakes for himself, his teacher, and 25 classmates, how many cupcakes does he need?
+Clara bought 20 pomegranates for $20 each and got a $2 discount. The next day, the price went up to $30 each, but she got a 10% discount. How much more did she pay compared to Clara’s purchase?
+James rented a horse carriage from 5 to 9 PM, getting an extra hour free. The first hour cost $15, and each additional hour was twice that. What was his total bill?
+Sally noticed a mistake in her paycheck. Her bank account shows $420, but she started with $200. She expected to earn $300. How much was taken out of her paycheck?
+Lori needs 1 full egg for 2 halves of deviled egg. She’s preparing for 16 guests, and each will eat 3 halves. How many dozens of eggs does she need?
+Shiela has written one-third of her 15-page paper. How many more pages does she need to write?
+Mike has to read a 200-page book in 30 days. He plans to read 10 pages each day. How many days before the deadline will he finish reading?
+James bought an airplane for $150,000. He pays $5,000 per month for a hangar and $10,000 each month for fuel. How much will he spend in total during the first year?
+After her shopping, Finley cooked rice, beans, and pork. It took her 20 more minutes to cook the pork than the rice, and the beans took half as long as the rice and pork together. If the rice took 30 minutes, how long did it take to cook everything?
+Lee has sheep and geese on his farm. The animals have 70 legs and 20 heads. How many sheep does Lee have?
+Roger went to buy coffee. His usual brand costs $5 per pound, but the store had a more expensive brand that costs 20% more. He also bought a donut for $2. How much did he spend in total?
+Gus spent $20 at the store. He bought 2 bags of chips at $2 each, a bucket of fried chicken for $8, and a soda for $1. How much did the apple pie cost?
+James delivers 600 newspapers each day. He gives 198 to District A and 209 to District C. How many does he deliver to District B?
+John joined a cooking class that meets 4 times a week for 2 hours each time, for 6 weeks. He learns a new recipe every 1.5 hours. How many recipes will he learn?
+Aurelia has $120. Kassidy has three-fourths of that amount, and Rayna has $60 more than Kassidy. How much do they have in total, and how much will each get if they divide it equally?
+Sarah’s basketball game has 4 quarters, each lasting 12 minutes. The last quarter was tied, so they played 5 more minutes of overtime. How long was the whole game?
+Svetlana needs 5 tablespoons of flour, 3 tablespoons of sugar, and 0.25 tablespoons of salt for each muffin. How many tablespoons of ingredients does she need for 16 muffins?
+Robert, Cindy, and Aaron have 3, 5, and 4 pounds of candy, respectively. If they share the candy equally, how much will each person get?
+Adam went to a store and bought 7 candies of type A and 10 of type B. Each A candy costs $0.50, and each B candy costs $0.75. How much change did he get after paying $15?
+Janey has 3 more books than twice the number of books Sally has. Janey has 21 books. How many books does Sally have?
+Mrs. Jameson's bamboo in the backyard, which grows 30 inches each day, is already 20 feet tall. How long until it reaches 600 inches?
+James needs more toys for the dogs at his shelter. He has 4 toys for the 4 dogs he currently has. There are 8 more dogs, and then 3 dogs leave. How many toys does James need?
+Three partners deposited $1200 into a mutual savings account. After Dylan's input of 2/5 of the overall total, Frances added 2/3 of the leftover funds. The remaining amount was Skyler's investment. How much did Skyler invest?
+Carol and Jennifer, sisters from Los Angeles, collect celebrity autographs. Carol has 20, and Jennifer has 44. They want a total of 100 signatures by the end of summer. How many more signatures do they need?
+If Lorie's hourly wage is $10 and Karen earns double that, what will Karen's earnings be for two days of working 3 hours each?
+The elevator in Jack’s building can hold 700 kg. Each adult weighs 80 kg. If Jack and 8 other adults ride the elevator, how much will they exceed the weight limit?
+Katarina has 5 fewer cookies than Max, who has 12 more than the Cookie Monster. Summer has 23 more cookies than Max. How many cookies do they all have if Katarina has 68 cookies?
+John and Jack have 30 minutes to get to school. They take 6 minutes to reach the library and 13 minutes to reach the fire station. How much time do they have left to get to school?
+Catherine bought 1 kg of apples for $4, 2 kg of bananas at $2 per kg, and 2 kg of oranges at $3 per kg. How much did she spend?
+Greta baked 30 cookies, and Celinda baked twice as many. After eating 10 cookies, how many cookies are left to pack in the box?
+John has 20 minutes of math homework, 40 minutes of reading, and 20 minutes of history work. He has 3 hours before dinner. How many minutes can he nap?
+Rong saves 20 coins every month, and Neil saves 2/5 more than Rong. How much will they have saved together in 10 years?
+John takes his dog to the veterinarian. The dog needs two vaccinations, each for $20, and a heartworm check. That check is 60% of the total cost. If John had $125, how much will he have left after the vet bill?
+Brittany’s quilt has 14 red sections, 4 blue sections exceeding the number of red sections, 6 green sections surpassing the blue ones, and 12 white sections fewer than the green sections. What is the total area of the quilt in square feet?
+Mia’s restaurant will have 42 adults and 15 babies tomorrow. The restaurant has 5 times as many regular chairs as high chairs. With 8 high chairs available, how many more chairs does Mia need?
+The students in class 3B need 400 points for a field trip. Adam has 50 points, Betty has 30% more than Adam, Martha has 3 times Tom’s points, and Tom has 30 fewer points than Betty. How many points are they missing?
+Greta earns $2,400 and saves 50% for retirement. She spends 20% on her car payment. How much money does she have left for other expenses?
+Celebrating the 4th of July, Hannah's city will present a major fireworks show with 15 boxes of 20 fireworks each. Because her house is situated perfectly, she will see 40% of the city’s fireworks display. Furthermore, in her backyard, Hannah will launch 3 boxes that contain 5 fireworks each. What is the total number of fireworks Hannah will observe?
+Gissela, Gordy, and Gary work with trucks. Gissela’s truck can carry 4,000 pounds of gravel. Gordy’s truck can carry 800 pounds more than Gissela’s. Together, their trucks can carry 11,600 pounds. How much gravel can Gary’s truck carry?
+Larry made dumplings for a group of 8 men, including himself, and 6 women. Each man ate 1 more dumpling than each woman. If each woman ate 3 dumplings and there were no leftovers, how many dumplings did Larry make?
+Martha’s turtle is five times slower than her cat. If the cat runs 15 feet per second, how many feet can her turtle travel in 40 seconds?
+How much will Alex earn from 2 weeks of tutoring if she charges $12 a day?
+If Erin buys 2 scoops and gets 1 free, and each scoop costs $1.50, how many scoops can she get with $6.00?
+Ginger and Amy each start with 100 Halloween candies. Ginger eats 4 candies daily, and Amy consumes 3. After 14 days, how many more candies does Amy have?
+Mr. Boarden needs 24 tiles for each square foot of his bathroom. How many tiles does he need for two-thirds of his 36 square foot bathroom?
+James goes blueberry picking for $20 plus $1.50 for every pound he picks. He picks 30 pounds. How much money did he save compared to buying them for $2.50 per pound?
+John prepares an omelet with 6 eggs, including 2 ounces each of cheese and ham. An egg has 75 calories, cheese is 120 calories per ounce, and ham is 40 calories per ounce. How many calories are in the omelet?
+Helga, the fastest clog dancer in Slovenia, taps her right foot 300 times per minute and her left foot 250 times per minute when her arms are down. When she raises her arms, both rates drop to 200 taps per minute. After dancing for 5 minutes, raising her arms for 2 minutes, how many times did she tap both feet?
+Ron is upset about a pothole at his doorstep. If not fixed, it will cost him $450 in car damage. The city council won’t fix it but will charge him $120 for repairs if he does it himself. He needs to buy 3 buckets of asphalt, each costing $25. How much money will Ron save by fixing the pothole himself?
+After practice, Bryce and 4 friends ordered pizzas. Each pizza had 12 slices. Bryce and two friends ate 2/3 of their pizzas, while the other two ate 3/4 of theirs. How many slices of pizza are left?
+Topher, who is very tall, wears shoes that are 10 inches longer than Bobby’s. If Topher’s shoes are 8 feet 4 inches long, how long are Bobby’s shoes in inches?
+Hannah is stressed while studying for finals and starts breaking windows in the school parking lot. She breaks a quarter of the windows on student cars and three-quarters of those on teacher cars. There are 64 student cars with 4 windows each and 32 teacher cars with 2 windows each. How many windows did Hannah break?
+Dora’s father is 8 years older than twice the age of 15-year-old Dora. He has a wife who is 4 years younger than him. What is the combined age of Dora, her father, and her mother?
+Greg finds $20 while walking with his 3 younger siblings. He decides to share the money equally. How much will each sibling get?
+Each of Cindy's math and science books weigh 2 pounds. Her French book is 4 pounds, her English book is 3 pounds, and her history book is twice as heavy as the English book. How heavy will Cindy's books be together when she carries them all?
+Boris has 100 apples, and Beck has 23 fewer. If Boris gives 10 apples to Beck, how many apples will Beck have fewer than Boris then?
+Peter has 32 ounces of water and aspires to make ice cubes in various sizes. The giant cubes need 4 ounces each, medium cubes require 2 ounces, and small cubes require 1/2 ounce. If he constructs 3 giant cubes, 7 medium cubes, and 8 small cubes, how many ounces of water will he have remaining?
+Alice has 6 more books than Steven. Clara has twice as many books as Steven. If Clara has 20 books, how many more books does Clara have than Alice?
+Jeremy sees 12 birds in his backyard. He throws a stone, and 1/3 of them fly away. Later, 20 more birds come. How many birds are in Jeremy’s backyard now?
+Melissa, a pet groomer, has to bathe 8 dogs, trim the nails of 5 cats, trim the wings of 3 birds, and brush 12 horses. If she does these tasks equally throughout the week, how many animals will she groom each day?
+Choosing to acquire packs of vintage magic cards, Mark intends to open and sell them. He buys 3 packs, priced at $1800 each. He discovers a card valued at $4000, another worth $1000, and he also has 30 cards averaged at $50 each. What total profit does he achieve?
+Sean has 56 marbles. Carl has four times as many, and Sean's is half of Cal's. Together, how many marbles do Carl and Cal possess?
+Gunther the gorilla has 48 bananas under a fern. Arnold the chimp takes half of them. The next day, Gunther adds 25 more bananas, but Arnold takes 12 more. On the third day, Gunther adds 6 more bananas. How many bananas does Gunther have now?
+Jenna lives with 4 roommates, and the electricity bill is $100 each month. How much will each roommate pay for electricity for the whole year?
+Jeff runs a catering business. For an event, he rented 8 dozen glasses and 4 dozen plates. After returning them, 10 glasses and 6 plates were broken. How many glasses and plates are left?
+Joey played 2 football matches on Monday, 1 on Friday, and 2 more on Saturday than he did on Monday. How many matches did Joey play that week?
+Krissa needs to buy shirts for her preschool students. Eleven kids need extra-small shirts. There are twice as many small shirt orders as extra-small ones. Four fewer students need medium shirts than small ones. Large sizes are needed by half the number of medium shirts. Finally, six more students need extra-large shirts than large ones. How many shirts did Krissa buy?
+John's playlists include 300 songs each. If he has 20 playlists and each song lasts 10 hours, what is the overall duration of the 20 playlists?
+Two-thirds of Jana’s puppies are Pomeranians, and one-third of those Pomeranians are female. If there are 6 female Pomeranians, how many puppies does Jana have in total?
+Three contractors, Rob, Royce, and Pedro, need 250 cases of shingles for three homes. The first house needs half of what the second house needs, and the third house needs double what the first house needs. How many cases of shingles does the third house need?
+Leila buys 3 cucumbers at $2 each, Jack buys 5 tomatoes at $1 each, and Chase buys 1 head of lettuce for $3. How much did they all spend for their salad?
+George's pears outnumber his bananas by 45%. If he's got 200 bananas, how many total fruits does he have?
+Marissa spent $20 on a ball, then bought candy bars for her sibling Jimmy, costing $5 each. If she started with $80, how many candy bars did she buy?
+To make 1 liter of juice, Sam needs 5 kg of oranges, which are $3 each. How much will it cost to make 4 liters?
+Ezra read twice as many books as Ahmed in 1 hour. Ezra has read 300 books, and plans to read 150 more books, how many books have they read in total?
+Anthony's total was 50 pencils. He gave 1/2 to Brandon and subsequently offered Charlie 3/5 of what remained. How many pencils did Anthony ultimately retain?
+Jack drives 150 miles to a museum. He drives 75 mph both ways. After spending 6 hours at the museum, how long was Jack away from home?
+Henry is making 57 cars and 73 motorcycles. He needs 4 wheels for each car and 2 for each motorcycle. If he uses 650 wheels, how many wheels are left?
+Mike has 600 movies. One-third are part of a series and cost $6 each. The remaining 40% are older movies costing $5 each. How much will Mike spend to replace all his movies if each regular movie costs $10?
+Bob had 3 orange fish and 4 white fish. After buying 17 more fish, he now has twice as many orange fish as white fish. How many white fish did Bob buy?
+Andy drives 5 miles each way to work from Monday to Friday. His car gets 10 mpg, and gas costs $3 per gallon. How much does Andy spend on fuel each week?
+Carrie’s aunt gave her $10 in twenty-dollar bills and 140 quarters for lunch. After spending all the quarters and three-fifths of the twenties, how much did her lunch cost?
+Samwell's appliance shop sold 40 TVs. One-fourth of them were smart TVs, one-eighth were analog TVs, and the rest were OLED TVs. How many OLED TVs were sold?
+John is raising money for a school trip. The school will cover half of the $300 cost. John has $50. How much does he still need?
+Carson needs to burn logs to heat his house and prevent the pipes from freezing. Each log raises the temperature by 5 degrees. If the temperature starts at 45 degrees and drops 33 degrees at night, how many logs does he need to burn to keep the pipes from freezing, given that the pipes freeze if the temperature falls below 32 degrees?
+Damien finds 10 bottle caps every day, each worth $0.25. How much does he earn in 30 days?
+Jamie earns $20 per hour for an 8-hour workday. She gets 150% of that rate for overtime. She worked 11 hours on Tuesday. How much will she earn that day?
+Mike wanted new jeans. When he got to the mall, he saw his favorite jeans were 25% off. They usually cost $40. How much money will Mike have left after paying with a $50 bill?
+Carrie is making the schedule for the caroling event. The choir will sing "Deck the Halls" twice and "Jingle Bells" once. "Deck the Halls" lasts 150 seconds and "Jingle Bells" lasts 240 seconds. How long will the caroling last?
+Billy started working at $10 per hour. After 2 months, he got a $0.50 raise, and then another $1 raise after a year. Sally started a job making $0.50 more than Billy's starting wage. If both work 20 hours, how much more will Billy earn than Sally?
+Pierson scored 278 in bowling. Nikita’s score was 11 points more than half of Pierson’s score. How many points did they score in total?
+Kris wants to earn an achievement by playing 30 hours. She plays half an hour per day for 2 weeks, then 2 hours per day for 1 week. How many more hours does she need to play to reach 30 hours?
+James is getting a ring for his fiancé. The diamond is $600, and the gold is $300. He pays a 30% extra charge for making it. What's the total cost?
+Janet is collecting data from the school’s yearly tests. Out of 500 third graders, 340 passed. Out of 100 fourth graders, 40 passed. The fifth-grade pass rate was double that of the fourth graders. What is the total pass rate for the school?
+John and DeSean bought 35 marshmallows for s’mores. Each s’more needs 1 marshmallow. After they each make 9 s’mores and drop 3 marshmallows, how many s’mores can they make with the remaining marshmallows?
+Jack and his three friends are at a newly opened arcade. Each quarter gives Jack 20 minutes to play. Two of his friends play half as long, and one friend plays 1.5 times as long. Together, they play for 4 hours. How much money did they spend?
+John bought 3 goats for $500 each and 2 cows for $1500 each. How much did he pay in total?
+Paul needs 63 cupcakes for a birthday party. He already has 8 chocolate and 40 toffee cupcakes. How many more cupcakes does Paul need to buy?
+Joe has twice as many cars as Robert. After selling 20% of them, he gives twice that amount to his mother. If Robert has 20 cars, how many cars does Joe have left?
+One morning, Hunter saw 50 cars in the lot. During the first break, 20 more cars arrived. By lunch, half of the cars were gone. How many cars did he see at lunch?
+John works 30 cycles of tasks each day. Each cycle has 5 tasks that pay $1.20 each. What is his total earnings after working for 7 days?
+Sasha and Julie are playing on rival basketball teams. In their first game, Sasha scored 14 points, and Julie scored 4 fewer points. In the second game, Sasha scored 6 points less than Julie. How many points did Sasha score in total?
+Becca, Smendrick, and PJ have 341 Magic Cards together. Becca has 12 more than Smendrick, who has three times as many as PJ. How many cards does Becca have?
+On Easter, Cindy collected eggs in the park. She got 5 green eggs, twice that number of blue eggs, 1 less pink egg than the blue eggs, and a third of the pink eggs as yellow eggs. How many eggs did Cindy collect?
+Starting with $40, Mulan receives $100 from her father. After buying two pairs of jeans at $30 each and a bag for $20, what is her remaining balance?
+Boris's chocolate factory makes 50,000 chocolate bars per month. In the first week, he makes 8,000. In the second week, he makes half that amount. In the third week, he makes three times the amount from the first week. How many bars does he make in the fourth week?
+Angela needs to install 6 mirrors, 2 chandeliers, and 20 pictures. The company charges $129 for 4 mirrors, 2 shelves, 1 chandelier, and 10 pictures, with each extra item costing $15. How much will Angela pay for the installation?
+Roy’s earnings from chores are 40% more than Anthony’s savings. Anthony has $10 more than their sister Eva, who has $20. How much money does Roy have?
+Naruto can lift a mountain 10 times heavier than Kagiyami, who can lift a mountain 4 times heavier than Saskay. Saskay can lift a mountain 12 times heavier than Pompei, whose max is 1 inch. How high can Naruto lift a mountain in feet?
+Jada, Rory, and Kora are making clay dishes for their art project. Jada makes double the amount Rory makes, and Rory makes 20 more than Kora, who made 20 dishes. How many dishes do they have in total?
+Gabriel wants to buy a $10,000 car and an $800 smartphone. He has $5,000 from weekend jobs and $200 from his brother. How much more money does he need?
+Thea bought a $70 hat in Bali. How much change did she get if she paid with four $20 bills?
+Peter owns a sock count that is twice that of Jack's, and his dishes are half of what Jack has. Jack collected dishes that are equal to two times his socks from the store. With Jack collecting 60 dishes, calculate their combined total of socks and dishes.
+Miss Susan's class has 20 students, with 5 excelling only in math, 8 excelling only in English, and the rest being experts in both. How many students are strong in math?
+Vicki is planning a 2-hour pop concert. Each group has 2 minutes to enter, 6 minutes to perform, and 2 minutes to exit. With a 10-minute break, how many groups can perform?
+Brenda allocated $300 to a scheme that collects simple interest at three-quarters of the principal annually. How much will she accumulate over 3 years?
+Mr. Smith has two farms. Farm X has 55 goats and Farm Y has 45 goats. After selling 10 from Farm X and twice that from Farm Y, how many goats are left on both farms?
+James spends $2640 a year on shoes, buying 2 pairs each month. What is the average price of each pair?
+Mr. Jackson’s class has 27 students. He gives each one 2 glue sticks, and the glue sticks come in packs of 8. How many packs must he buy to give each student 2 glue sticks, with some extra left over?
+Rafaela earned tips of $20 from each of 40 customers. Julieta’s tips were 10% less than Rafaela’s. What is the total amount Julieta and Rafaela earned in tips?
+Jennifer bought 12 oranges and gave 2 each to her 3 daughters and 3 to her son. How many oranges does she have left?
+Claire gets 1 badge a month, Amber spends twice as much time per badge as Claire, and Wendy earns three times as many badges as Claire. How many more badges did Wendy earn than Amber in a year?
+Gretchen has 70 gold coins, which is 30 more than her silver coins. How many coins does she have in total?
+George ordered 600 burritos for his grade six picnic. Each of his 50 students got 10 burritos. If Mr. George ate 20 burritos, how many were left after the picnic?
+Sofie, Anne, and Fawn have 85 books in total. Sofie has 25 more than Anne, and Anne has 12 fewer than Fawn. How many books does Fawn have?
+Daisy bought a 5-pound bag of potatoes, and sweet potatoes weighing twice as much. The carrots weigh 3 pounds less than the sweet potatoes. How many pounds of carrots did Daisy buy?
+Greg is making jello for 30 kids, with 4 cups of jello per child. Each 3-ounce box makes 10 cups, and each box costs $1.25. How much will Greg spend on jello?
+Madeline and her roommate Keenan spend $400 on groceries each month. Madeline pays 60% of the bill. How much does Keenan spend weekly?
+David buys 7 bottles of soda for $21 and 4 bottles of water for $8. How much will David spend on 3 bottles of soda and 2 bottles of water?
+David has $12.48 and wants to buy 16 bolts at $0.03 each. How much money will he have left after buying the bolts?
+Paul had 52 marbles, and his friend gave him 28 more. Then he lost a quarter of them. How many marbles does Paul have now?
+Amy got 80% of the multiple-choice questions right, 90% of the true/false questions, and 60% of the long-answer questions. The test has 10 multiple-choice questions, 20 true/false questions, and 5 long-answer questions. How many points did Amy earn?
+Julie, Micah, and Mitchell sold 32 glasses of lemonade. Julie sold 14, and the boys sold the same number. How many more glasses did Julie sell than Micah?
+Iris spent $400 at a spa. She paid a quarter of that for a manicure and three-quarters of the manicure cost for a pedicure. How much did she spend in total?
+Sarah's friend is thinking of buying a 20-meter rope for $2 per meter. She plans to use the money from this to buy a new rope priced at $1.5 per meter. How much will she have remaining after buying the new rope?
+In 10 years, Melanie will be 18. When will she be three times her present age?
+At the store, Kelly is shopping while keeping an eye on her spending. She has 5 packs of bacon costing $10, and 6 packs of chicken that cost twice as much as the bacon. She also has 3 packs of strawberries costing $4 each, and 7 packs of apples, which are half the price of the strawberries. With $65 to spend, how much money does she have left after shopping?
+Elaina is finishing her tour with a special concert, which she decides to make twice as long as usual, plus a 15-minute encore. If the concert lasts 65 minutes, how long is each of her regular concerts?
+Argo possessed 200 toys; after he donated 40 to Alyssa, 80 to Bonnie, and 30 to Nicky, how many does he have remaining?
+On Tuesdays and Wednesdays, Ben and Aggie's Burrito Shop produces 125 chimichangas. On Fridays, they make twice as many. How many chimichangas do they total in the three days?
+Jerry sees 6 birds in the bushes, with two-thirds of them flying above him, plus 3 groups of 8 birds each looking for food. How many birds did he see in total?
+Lani baked 55 cookies, ate 5, and split the remaining cookies evenly into 5 jars. How many cookies are in each jar?
+Mrs. Smith's garden has 100 plants, with a quarter being indoor plants. Of the remaining plants, two-thirds are outdoor plants, and the rest are flowering plants. What percentage of the plants are flowering?
+Ellen eats 2 carrots and has a salad that costs $6, plus yogurt costing half that price. She spends $11 on food each day. How much does one carrot cost?
+Mark works 8 hours a day for 5 days a week. His hourly wage used to be $10, but it has increased by $2. How much does he earn in a week now?
+Last month, Tasha made $80 from selling lemonade and mowing lawns. In the first week, she mowed Kamala's yard three times as much as Joe's. The following week, she mowed Alba's yard five times more than Joe's. If Joe gave her $6 for his lawn, how much did she earn from lemonade?
+Martin weighs 55 kg. Carl weighs 16 kg more than Martin. Christian weighs 8 kg more than Carl. Harry weighs 5 kg less than Christian. How much does Harry weigh?
+Joseph has three times as many notebooks as Martha. After Martha buys 5 more notebooks, she has 7. How many more notebooks does she have than Joseph now?
+For Christmas, Susan baked 100 cookies to share with her 6 nephews. But before she wrapped them, her husband took 4 away. How many cookies will each nephew receive?
+Denise and Daniel are reading the same book. Yesterday, Denise read 10 pages, and Daniel read 13. Today, Denise read 5 more pages than Daniel did yesterday, while Daniel didn't read at all. How many more pages did Denise read than Daniel?
+The store sells notebooks for $1.50 each and pens for $0.50 each. William bought 5 notebooks and 1 pen. How much did he spend in total?
+Jo makes face masks. She uses 2 yards of fabric for 4 small masks and 2.25 yards for 3 large masks. How much fabric does she need to make 20 small masks and 8 large masks?
+Harold sleeps 10 hours each night. He works 2 hours less than that and walks his dog for 1 hour every day. How much free time does he have left?
+Tim has 7 blue shoeboxes and 9 red ones. If he uses 3 blue shoeboxes and one-third of the red ones for fishing, how many shoeboxes does he have left?
+Sarah has 9 books, and Joseph originally had double that. But he lost 2. How many books does Joseph have now?
+Dean has 30 marbles. He gave Jamie 1/5 of his marbles and 10 to Donald. How many marbles does Dean have left?
+Eight years ago, Duncan was twice as old as Adam was four years ago. Duncan is now 60. How old will Adam be in 8 years?
+Farmer Brown's farm is 200 acres, and Farmer Smith’s farm is 100 acres more than twice that. How many acres do the two farms have in total?
+Every half hour, John drinks a bottle of water. Solving a regular sudoku takes him 45 minutes, but an ultra-hard sudoku takes four times that. In this time, how many bottles does he consume?
+Benny threw pieces of bologna at balloons, tossing 2 pieces at each red balloon and 3 at each yellow balloon. He threw 58 pieces in total at a mix of red and yellow balloons, with 20 red balloons. How many yellow balloons were there?
+Bruce worked 5 hours on Tuesday. He worked twice as long on Wednesday and 2 hours less on Thursday than Wednesday. How many hours did Bruce work in total over these 3 days?
+Kira bought 3 apples, 5 bananas, and 6 oranges. Then Lola ate 2 pieces of fruit. How many pieces are left?
+Larry loves taking care of animals. He has 3 cats, 3 times as many dogs as cats, 2 fewer rabbits than dogs, and 3 times as many fish as rabbits. He also has gerbils, which make up a third of his fish. How many pets does Larry have in total?
+A loaf has 24 pieces. Abby eats 2 slices each day, and Josh eats double that. How long will the loaf last?
+Martha started collecting shells every month when she was 5. How many shells will she accumulate by her 10th birthday?
+Lana has 27 cups for tea, which she arranges into 3 rows. Each row has the same number of chamomile and mint tea cups. The remaining cups are made into 15 cinnamon tea cups. How many mint tea cups are in each row?
+The pool holds 10,000 gallons of water. Anthony and his father pump out half to fill a tank. They water their garden with the water from the tank, draining 500 gallons each day. How much water is left after 6 days?
+Andrew bakes 200 mini cinnamon rolls and 300 mini blueberry muffins. Each normal cinnamon roll has 600 calories and a normal blueberry muffin has 450 calories. If a mini pastry is one-third the calories of the regular version, how many calories do the pastries he created have?
+Rita picks Junebugs from her plants every summer. She caught 39 on Monday, double that on Tuesday and Wednesday, 48 on Thursday, and 57 on Friday. What is the average number of Junebugs she collected each day?
+Peter, Paul, and Jean’s ages add up to 100. Paul is 10 years older than John, and Peter is the sum of Paul’s and John’s ages. How old is Peter?
+Maria invited 4 friends to a water balloon fight. She gave each friend 2 balloons and kept 1 for herself. Then her mom joined and gave everyone 3 more balloons. How many total balloons did the girls have?
+John earns $50 an hour. He worked 6 hours this week. After spending $50 on gas and wanting to save $100, how many $25 pens can he buy after getting 5 pencils for $10 each?
+Craig and his brother took turns spelling the longest words and counting the letters. Craig spelled 20 words, each with 15 letters. His brother’s letter total was 50 more than Craig’s. How many total letters did they spell together?
+Patty’s Plumbing charges a $40 visit fee, $35 per hour, plus the cost of parts. For one job, she worked 2.25 hours and used $60 worth of parts. What was the total bill?
+James bought 10 CDs for $15 each, with a 40% discount. After disliking 5 of them, he sold those for $40. What is his total loss?
+James swims across a 20-mile lake. He swims 60% of the distance first, then rests on an island for half the time he swam. He finishes the remaining distance at half his swimming speed. How long did it take him to cross the lake?
+Sam had 70 loaves last Friday. The bakery has 40 fewer loaves than seven times that amount. How many loaves are in the bakery?
+Jasmine received 15 stickers for participating in class but lost 7 during playtime. Her teacher gave her 5 more for helping classmates. How many stickers does Jasmine have now?
+Marcus is 26 minus 5 years, so he’s half Leo’s age. How old is Leo?
+Bahati, Azibo, and Dinar scored a total of 45 points in their team. Bahati scored 20 more than Azibo and 10 more than Dinar. How many points did Azibo score?
+Jonathan has 2/3 as many spoons as cups. He has 24 cups now and gave 6 spoons to Pedro. How many spoons and cups does he have left?
+If Shawna's dad is five times her age and Shawna is three times as old as Aliya, who is 3, then how old is Shawna's dad?
+Courtney said there were 48 people at the concert she went to, but Kelly thought she exaggerated by 20%. How many people were actually there?
+The coach brought a bag full of basketballs to practice. Jordan carried twice as many as Jason, and Jason carried twice as many as Jeffrey. If Jason had 2 balls, how many basketballs did the coach bring?
+Amora, Lainey, and Collins were going to share corn chips equally, but one person would have ended up with 15 more chips than the others. Amora and Lainey each got 70 chips. How many chips did they start with?
+Alex, Stan, and Adelwolfe have caught 339 Pokemon in total. Alex caught 5 more than Stan, who caught 13 fewer than four times the amount Adelwolfe caught. How many Pokemon does Stan have?
+After recently beginning watching a new series, John has episodes that each last 20 minutes, and there are half as many episodes as there are minutes in each episode. How many minutes will he spend watching all of them?
+Andy works at a tennis shop and needs to string 12 racquets. He will use synthetic gut for 3 racquets, polyester for 5, and a mix of both for 4. How long will it take him to string all the racquets if synthetic gut takes 15 minutes, polyester takes 22 minutes, and the mix takes 18 minutes?
+John is buying new phones for himself, his kids, and his wife. Each phone costs $600, but after the first two, each additional one costs half the price. How much will he spend in total for all the phones?
+Carlton’s team has 13 players, and Zeke’s team has 7 more players. How many players are there in total on both teams?
+Robert is building a rectangular wooden fence for his garden that's 15 feet long and 10 feet wide. For every foot of the fence he builds, he uses 2 wooden slats. How many slats will he require in total?
+Mrs. Harrington bought 12 boxes of oranges. She gave 2 boxes to her mom and 2 to her sister. After keeping 1/4 of the oranges, she sold the rest. How many oranges did she sell if each box has 20 oranges?
+Richard, Jerry, and Robert have 60 cherries to share. Robert has 30 cherries, and that’s 10 more than Richard has. How many cherries does Robert have more than Jerry?
+Pamela uses 1 ounce of sunscreen every hour she’s outside. The sunscreen comes in 8-ounce bottles. If she’s outside for 4 hours a day for 8 days, how many bottles of sunscreen will she need?
+Adrianne is collecting beads for bracelets. She got 20 metallic beads from her mom, 10 more from her sister, and twice the amount her mom gave from her friend. How many beads does Adrianne have in total?
+On Thursday, Joe caught 3 pounds of crawfish. On Friday, he caught 4 times that amount, and on Saturday, he caught half of Friday’s catch. How many servings of crawfish does he have if 3 pounds equals 1 serving?
+In Mr. Roper’s class, there are 30 students, 20% of whom are football players. Another 25% are in cheerleading or band. How many students are leaving early for a game?
+Charlie has boots that are 5 times bigger than Sophie’s, and Sophie wears size 5. What is their average shoe size?
+Pat has a flower bed that is 111 feet long. Her flowers are each 12 inches wide, and she needs 1.5 feet of space between them. Pat currently has 17 flowers. If each plant costs $6, how much will it cost to fill the bed?
+With Edgar eating 18 pretzels each day, if his brother eats half as much, what is his weekly pretzel consumption?
+Jessica earns $2,000 a month and saves 25% of it for shoes that cost $1,000 each. How many pairs of shoes can she buy in a year?
+Halley’s Comet orbits the sun every 75 years. Bill’s dad saw it when he was 30, and Bill saw it again when he was 3 times as old as his dad was the first time. How old was Bill when he first saw the comet?
+Tobias, Chikote, and Igneous howl at the moon each night. Tobias howls for 20 seconds, Chikote howls for twice that time, and Igneous howls for the combined time of both Tobias and Chikote. How long is their total howl in minutes?
+Adam bought new pants for $30. His mom gave him $6, and his dad gave him twice that amount. How much did Adam have to pay from his own money?
+Four children—Akbar, Alessandro, Helene, and Wilfred—are playing together. Helene’s age is twice the average age of the group, and their ages add up to 20. Akbar is 3 years old and Alessandro is 4. How old is Wilfred?
+Walter is raising money for a charity. He collects $500 from neighbors and $1,500 online. His lawyer will donate 3 times the total amount raised. How much will Walter’s lawyer contribute if the lawyer also gives $200?
+At a wedding, there were 100 guests, each bringing 15 cookies. The bride gave half of them to the neighboring church. How many church members received 15 cookies each?
+Doctor Jones works at his clinic for 9 hours on Monday. He needs 20 minutes to check each of the 9 inpatients and 30 minutes for each of his 10 appointments. How much time does he have left for record updates after checking 9 inpatients?
+Lisa and Peter are selling chocolate bars. Lisa sold 3.5 boxes, and Peter sold 4.5 boxes. Together, they sold 64 chocolate bars. How many bars are in one box?
+Peter has 64 chocolate bars in 4 equal boxes, and Martha has 56 in 7 equal boxes. How many more chocolate bars does Peter have in each box compared to Martha?
+The Smith family needs to fill their swimming pool. The pool company tells them to multiply the volume by 5.9 to find out how many gallons they need. The company charges $0.10 per gallon. If the pool is 14 feet wide, 25 feet long, and 4 feet deep, how much will it cost to fill the pool?
+Matteo drives at 55 mph for 4 hours, and Shandy drives at 45 mph for 10 hours. How many miles did Shandy drive more than Matteo?
+Bethany can run 10 laps in an hour. Trey can run 4 more laps than she can, and Shaelyn runs half of Trey’s laps. Quinn runs 2 fewer laps than Shaelyn. How many extra laps does Bethany run compared to Quinn?
+Janet works as a waitress, earning $10 per hour and $15 in tips per hour. She wants to save 20% of $10,000 for a car. If she works 40 hours a week, how many weeks will it take her to save the needed amount?
+Mrs. Tatiana sells carrots in her grocery store. The price of carrots increases by 5% each year. If they cost $120 this year, how much will they cost in 3 years? (Round to the nearest dollar.)
+James reads 3 pages in 10 minutes. He reads 18 pages before going to sleep. How many minutes did he spend reading?
+John picks 4 bananas on Wednesday, 6 on Thursday, and 3 times as many on Friday as he picked on Wednesday. How many bananas does John have in total?
+Having sold 80 cookies for $1 each and 60 cupcakes for $4 each, Suzanne rewarded her two sisters with $10 each for their help. What is her remaining earnings from this transaction?
+There are 100 hidden Easter eggs. The twins found 30 each. The rest were found by their friends. How many eggs did the friends find?
+After purchasing a bedroom set for $3000, Tom sold his old set for $1000 to reduce the price. He still needs to pay 10% of the remaining balance each month. How much does he have to pay monthly?
+Grandpa loves jelly beans. He needs 75 large ones to feel full. He can eat double that number in medium-sized beans. Also, 3 small jelly beans equal 1 medium-sized bean. How many small jelly beans can he eat?
+Melissa spends 6 hours a day for 3 days on jury duty. She earns $15 a day but has to pay $3 for parking each day. How much does she earn per hour after expenses?
+Ted begins with $200. He purchases 3 books at $16 each and 3 pencils at $6 each. What is his total expenditure?
+Richard is making a video for a science project. He sets up soda bottles 3 feet apart along his 24-foot driveway. It takes 5 seconds to move to the next bottle. How many seconds will it take to set up all the bottles?
+Uncle Franky ordered two boxes of apples, each containing 40 apples. He plans to pack them into packs of 8 apples each. How many packs can he make?
+Jim is going to college for 4 years, borrowing $50,000 each year. Before college, he earned $25,000 a year, but with his degree, his income will triple. How many years will it take him to earn back the money he borrowed and the income he lost?
+Jim needs fabric to make a comforter for his king-sized bed. The bed is 6 feet long and 8 feet wide, and he needs fabric that’s 2 feet longer and 2 feet wider than the bed. How many square feet of fabric should he buy?
+Molly is catering her sister’s birthday for 16 people. Ten people want chicken salad, costing $6.50 each, and 6 people want pasta salad, costing $6 each. How much will Molly spend on food?
+Johnny went to see horse racing with his dad, who placed a bet. He lost $5 on the first race, won $1 more than double the loss in the second race, and lost 1.5 times the amount won in the third race. What was his average loss for the day?
+Ben bought a car for $20,000 in 2007. Its value drops by 21% every year. How much is the car worth in 2010?
+Bernice is driving from San Diego to New York City, a distance of 1955 kilometers. She drove 325 kilometers a day for 4 days. How much further does she have to go?
+Alison bought some athletic clothing for $10 for a tank top, $5 for running shorts, $48 for tennis shoes that were 50% off, and $8 for athletic socks after using a $2 coupon. How much did she spend in total?
+James has to buy insurance. An accident makes it 60% pricier than normal. The typical monthly cost is $120. How much does he pay yearly?
+Jill and her friends watch 4 movies on Saturdays and half that number on Sundays. Over 4 weekends, how many movies will they watch?
+Imma has 3 cats, and each cat gets 60 grams of food twice a day. How many days will her 720 grams of food last?
+Becky, Jake, and Silvia shared 4 pizzas, each with 8 slices. Becky ate 3 slices more than Jake, and Silvia ate double what Jake had. If Becky had 10 slices, how many slices did they eat altogether?
+Betsy and Donovan prepared a meal, with Betsy taking 18 minutes more than Donovan. All together, it took 98 minutes. What was Betsy's total time?
+Hannah slipped on a banana peel and broke her arm. The doctor charged her $200 for a cast, $300 for a half-hour consultation, $4 per pill for 30 painkillers, and $6 for parking for 2 hours. What is the total cost of her visit?
+James gets 80 emails every day. 20% don't need a reply. How many emails does he reply to in a 5-day workweek?
+John’s average score over four tests is 100 for the first three and 80 for the fourth. What is his average score?
+Anthony is sending out coupons for his pizza shop. He intends to send out 700 little coupons and double that number for big ones. The postage for each tiny coupon is 5 cents, and each big coupon is 15 cents. How much will he spend on postage?
+Each meatball sub has 4 meatballs. Sidney ordered 7 sandwiches, 3 less than 10. Mark ate 4 of Sidney’s sandwiches. Sidney ordered 3 more sandwiches. How many meatballs are left?
+Mr. Hezekiah sent 20 trucks with 20 tons of fertilizer each to farmers. A quarter of the trucks broke down. How many tons were delivered?
+Maggie invested a fourth of her $60, and Riza invested a third. How much money do they have left?
+Mr. Robles bought 315 bananas for his three monkeys. The first monkey eats 10 bananas a day, the second eats 4 more than the first, and the third eats the rest. How many bananas does the third monkey eat each day?
+Teddy finished half of a 500-piece puzzle, then completed another one in an hour. How many pieces did he put together in that hour?
+Jenny is buying flowers. A rose costs $2, but a dozen is $15. She buys 15 roses with five $5 bills. How many quarters does she get back?
+Terry’s menu features 6 milkshakes at $5.50, 9 burger platters at $11, and 20 sodas at $1.50. What total income does he generate?
+Melanie needs 200 toothpicks for a project. She collects 10 each week for 12 weeks. How many more weeks does she need to collect enough toothpicks?
+Mr. Rogers bought a $2000 watch for 75% of the price. He sold it for 120% of the price he paid. What discount did his friend get on the original price?
+Frankie and Binkie were bowling. Frankie's score was 15 more than twice Binkie’s score. If Binkie scored 90, what was Frankie's score?
+James walked to the store and realized he forgot something at home. The store is 4 miles away and he walks at 4 miles per hour. How long did it take him to reach the store?
+Bananas cost $0.80 each or $3.00 for a bunch of 4 bananas. Jenny buys 10 bunches. How much did she save by buying bunches instead of individual bananas?
+If Sam and Harry split 100 feet of fence, with Harry getting 60 feet more than Sam, how much does Sam get?
+John has 6 periods at school each day. He has 2 extra 40-minute classes each day and studies an extra 1/16 of his weekly time on weekends. How many hours does he spend learning each week?
+Tony is painting a room with 4 walls. The north and south walls are 10 by 8 feet, and the east and west walls are 5 by 8 feet. A gallon of paint covers 20 square feet. How much will the painting cost?
+Ellen decided to prank her friend. She shook 3 sodas from a 12-pack, grabbed 1 unshaken soda, and left. Her brother took 1 shaken soda and 2 unshaken ones. What is the chance her friend gets sprayed by a shaken soda?
+At Mary and John’s wedding, there were 20 cars and 12 buses. Each bus had 35 passengers, and each car had 3 passengers. How many people were at the wedding?
+Jeff is 10 years older than his sister Martha, who is 4 years younger than Mike, who is 24. How old is Jeff?
+Bobby takes a 30-minute lunch and two 15-minute breaks each day. How many hours of breaks and meals does he take in 5 days?
+Sheila charged $85 to her credit card. She returned an item worth $15, then bought a frying pan for $20 with a 20% discount and a set of towels for $30 with a 10% discount. What’s her new credit card balance?
+Chris is 4 years old. Ben is twice as old as Chris, and Caroline is three times as old as Ben. How old is Caroline?
+Marty has a 100-centimeter ribbon. He cuts it into 4 pieces, then cuts each piece into 5 parts. What is the length of each part?
+Pierre, Paul, and Jacques purchased 12 kilograms of apples. Peter is requesting one-fourth of that amount, while Paul desires one-third of it. How many kilograms will remain for James?
+Raymond saved $11 from his allowance, spent $5 on a comic book and $19 on a puzzle. How much money does Raymond have left?
+Anna wants to buy books for a library with $16. After spending $4, she bought 2 books at equal prices. How much do each of the books cost?
+Tate’s pond has 4 male guppies, 7 female guppies, 3 male goldfish, and 5 female goldfish. He buys more fish. How many more female fish does he have than male fish now?
+Amalia, Megan, and Dior were each doing a chore. Amalia mowed the lawn for 4 hours. Megan walked the dog for 2 more hours. Dior did laundry for 4 extra hours. How much time did they spend altogether on their chores?
+Sofie walks twice as far as Brian in 7 days. Sofie walks 10 miles a day. How many miles will Brian walk in 7 days?
+Elijah's dog weighs 1/4 the weight of Kory’s dog, and another weighs half. Kory’s dog weighs 60 pounds. How much do both dogs weigh together?
+Seth gave half his stickers to Luis, who passed half to Kris, who kept 9 and gave 7 to Rob. How many stickers did Seth start with?
+John buys 3 large bags of M&Ms, each 10 ounces, and wants to make small bags with 10 M&Ms in each. How many small bags can he make?
+Rani researched the fastest car. It’s 1.25 times faster than the second-fastest car, which is 5 times faster than a normal car that drives 120 mph. What is the fastest car's speed?
+Liam is 16. Two years ago, his age was double Vince’s. How old is Vince now?
+Arnold, Madeline, Camden, and Sarah painted 56 eggs. Arnold and Madeline painted the same amount. Camden and Sarah painted 30 eggs, with Camden painting 12 more. How many more eggs did Camden paint than Arnold?
+Nik has 200 crayons and wants to group them into boxes of 8. Each box weighs 8 ounces, and each crayon weighs 1 ounce. How much do the crayons and boxes weigh in pounds?
+John can turn 80% of an 80-foot tree into logs. He slices the logs into 4-foot lengths, and each piece yields 5 planks. Each plank is sold for $1.2. How much does he earn from all this?
+Valerie earns $5000 a month, half of her brother’s salary. Their mother earns twice their combined wages. How much do they all earn together?
+Grandma walks a 3-mile route every day. She walks 2 miles on the beach and 1 mile on the sidewalk. She walks twice as fast on the sidewalk. If she spends 40 minutes walking along the beach, how long does it take her to walk the entire route?
+Jane saves $4 each week for 8 weeks. How many more weeks does she need to save $60?
+Bob has a certain number of marbles. He gets 2 dozen more, and now he has 60. How many marbles does Bob have after losing 10?
+Melanie’s father started an animal farm with 50 cows and 20 chickens. He gets 20 cows a day and 10 chickens for 3 weeks. How many animals does he have after 3 weeks?
+Russell orders bagels online. Each pack costs $10 and has 9 bagels. He gets a 10% discount for buying 4 packs. How much does each bagel cost after the discount?
+Tim is growing 5 trees. He retrieves 6 lemons from each tree annually. How many lemons will he have after a decade?
+Adam invests $100 in a rock stand. He buys rocks for $5 each and sells them for $7. He sells 60% of what he bought. What is his loss?
+Patricia starts with 30 roses, gives 24 to her mother, and later gets 15 more roses. How many roses does she have now?
+Mark buys a lottery ticket with a 20% winning chance and then acquires another ticket that has three times that likelihood. What is the percentage probability that both tickets end up winning?
+At the beach, Carlos, Jim, and Carrey were having fun collecting seashells. Jim found 27 seashells, which was 5 more than Carlos's total. Carlos had twice as many as Carrey. They shared all their seashells equally. How many did each person get?
+John acquires a cassette featuring two songs. The first track is 5 minutes long, and the second track is 60% more time-consuming. What is the total duration of the cassette?
+Carl's cane is half his height. He is 1 foot taller than his brother Ned, who is 2 feet shorter than their cousin Isabel. Isabel is 7 feet tall. How long is Carl’s cane?
+Carla just had octuplets. She dresses 75% of them in purple and the rest in blue. If all the blue-dressed babies and one-third of the purple-dressed babies wear bows, what percentage of babies with bows are in purple?
+Abraham has 80 square meters of unused land. He sells 40 square meters for $50, another 20 square meters for $30, and the rest for $3 per square meter. How much money does he make in total?
+Half of Haley’s age minus 10 is Geb’s age. Haley is 26 years old. How old is Geb?
+Cole has 3 dozen eggs for an Easter egg hunt. Lamar finds 5 eggs. Stacy finds twice as many as Lamar. Charlie finds 2 fewer than Stacy. Mei finds half of Charlie’s total. How many eggs are left hidden?
+John collects trash from three apartment complexes. The first two have 200 apartments each, and the third one is 60% bigger. He collects trash three times a week and earns $0.40 per apartment per collection. How much does he make weekly?
+Jack starts with $100 and gets 1/5 of Sophia’s $100. What is Jack’s new total?
+Ronnie gets $5, and Rissa gets three times that. After they donate the same amount to their little sister, Rissa has 4/5 of her money left. How much does Ronnie have left?
+Tom’s house has 4 bedrooms, each 20 feet by 12 feet. The living room is 5 times the size of one bedroom. The rest of the house is 1000 square feet. What is the total area of the house?
+Thomas withdraws $1000 in $20 bills from the bank. He loses 10 of them, then spends half of the rest. Later, he triples the amount he has left. Finally, he changes all his bills to $5 bills. How many $5 bills does he have?
+Miss Albert’s class has 12 boys and 12 girls. One-third of the girls and one-fourth of the boys are on varsity. How many students are not on varsity?
+Mike buys 5 face masks, and Johnny buys 3 times that number plus 2. How many face masks did Johnny buy?
+James has 30 teeth. The dentist drills 4 and caps 7 more than the drilled ones. What percentage of James’s teeth did the dentist fix?
+A company sells 4000 gallons of milk for $3.5 per gallon to Mr. Marcellus. Later, Mr. Marcellus finds that 2/5 of the milk is expired and returns it for a refund. How much does he get back?
+Wendy’s age is five times Colin’s age in 7 years, and in 25 years, Colin will be one-third of Wendy’s current age. How old is Colin now?
+Ali orders 850 kg of coal in 50 kg bags, each costing $18. What is the total cost of his order?
+Cheese pizzas are cut into 12 slices, and pepperoni pizzas have 8 slices. Kate’s 6 friends eat 6 cheese slices and 4 pepperoni slices each. How many pizzas should she buy?
+Sam runs 3 miles on Monday, Wednesday, and Friday, and 5 miles on Tuesday and Thursday. How far did Sam run in total this week?
+Jay makes snowballs for a snowball fight. He makes 20 per hour, but 2 will melt every 15 minutes. How long will it take him to make 60 snowballs?
+When Digimon first began, John was twice as old as Jim. Now, John is 28. How old is Jim?
+Jen works 7.5 hours a day, 6 days a week, earning $1.5 per hour. She also gets $10 extra for perfect attendance. What will her total pay be for April, which has 4 weeks?
+Jason earns money for doing chores. He gets $3 for washing clothes, $1.50 for cleaning his bedroom, $0.75 for taking out trash, and $0.50 for unloading the dishwasher. In two weeks, he did these chores 6 times, once, twice, and once, respectively. How much did he earn?
+Brady learned that a whale has 40 gallons of blood. Sharks have three times that. How much blood do 10 sharks have?
+John buys 10 bottles of scotch for $600 and twice that amount of cognac, which costs 50% more per bottle. What is his total spending?
+Mr. Julius plants 20 White Oak trees on the first day and double that number of Lodgepole Pine trees. On the second day, he plants 10 more White Oak trees and a quarter more Lodgepole Pine trees. How many trees did he plant in total?
+Fred prepares 24 gallons of root beer, but his kids drink 4 gallons, his wife spills 7 gallons, and his friend Ronnie drinks 5 gallons. On the fourth day, three people come over to his party. How many gallons will each person drink if Fred shares the remaining root beer equally?
+Amy has two palettes of eyeshadow with 4 colors each and 3 makeup sets with 6 colors each. Her sister took one palette. After Amy used half of the colors from one set, how many colors does she have left?
+Mattison’s two-story house is 7 times his height. The first floor’s ceiling is three times his height. How far is it from the second floor to the roof?
+Teams Alphas, The Finders, and Gogetters collect shells. Team Alphas collects 40% of the total, and Team The Finders gets 60% of what’s left. How many shells did Team Gogetters collect?
+In Bernie’s house, 4 dogs each need different amounts of exercise. The first needs 1 mile, the second needs 4 miles, the third needs 3 miles, and the average is 3 miles per day. How far does the last dog need to walk?
+John borrows 40% of his house’s value, $250,000. He uses 60% of the loan to pay off debts. What is left after paying the debts?
+Brian tests a dehumidifier on low, medium, and high settings. The low setting extracts 1 liter of water a day, the medium extracts twice that, and the high extracts twice the medium’s amount. After using each setting for a few days, how much water did the dehumidifier extract in total?
+Jolene hosts a water balloon contest and buys 10 packs of balloons, each with 30 balloons. At the end of the day, 12 balloons remain. How many balloons were thrown?
+Ali is the dean of a private school, and John is the dean of a public school. John teaches two classes, each with 1/8 the capacity of Ali’s 120-student class. How many students are there in total at both schools?
+Stephen borrows $300 from his sister with 2% interest. For the first 11 months, he pays her $25 each month, and in the 12th month, he repays the remaining amount. How much does he pay in the 12th month?
+Pauline visits the museum 3 times a year, with each ticket costing $2. After 5 years, the price increases by 150%, but Pauline continues visiting for another 3 years. How much did she spend in total on tickets?
+John makes 4 tables, each priced at $20, and 2 roof frames, each costing $10. How much does Ali have to pay John?
+Ian has a 40-foot board. He wants to cut it into two pieces, with the longer piece being 4 times longer than the shorter one. How long is the longer piece?
+Luke needs fabric for curtains for five 35-inch windows. He needs double the total width of the windows. How much fabric should he buy?
+The cost of a manicure is $35, and a pedicure is $40. If a customer books both, they get a 20% discount. If Karen chooses both services and wants nail art on her fingers at $3 per nail, how much will she pay in total?
+Susan holds subscriptions for 3 magazines that produce 12 issues each year. She has one more magazine that contributes 6 issues annually. Furthermore, her last magazine sends her four times the quantity of the 6-issue magazine. How many magazines does she accumulate annually?
+Samantha has 12 fewer paintings than Shelley, and Shelley has 8 more than Kim. If Samantha has 27 paintings, how many does Kim have?
+Charlie, a tennis coach, charges $80 per hour but gives veterans a 25% discount. Today he gives 4 regular lessons and 2 veteran lessons. How much money does he make today?
+Michael drives from Alaska to Texas at an average speed of 50 km/h. He travels for 3 days and the total distance is 6000 km. What percentage of the trip has he completed?
+Madeline eats 6 grapes, and her brother uses 5 times that amount to make juice. Their mother uses 12 grapes per pie and bakes 4 pies. How many grapes did they start with?
+Bud makes macaroni and cheese every week. He spends $1.00 on pasta, $3.00 on cheddar cheese, and twice that for gruyere cheese. How much does he spend in total for the year?
+Audrey must pass two math tests with at least 70% correct on all questions. She scores 60% on the first test with 70 questions. How many questions must she get right on the second test to pass?
+Mary is making fruit-filled ice cubes for her party. She prepares a certain number of strawberry cubes, and the number of blueberry cubes is five times that amount minus four. The total number of cubes is 116. How many blueberry cubes does Mary have?
+Four years ago, Ara joined the school basketball team. She plays 40 games each year, scoring 21 points in each game. How many points has she scored in four years?
+Brendan had 10 marbles when he tripped and dropped half. He picked up 3 marbles but found one was a bead, so he threw it away. How many marbles does Brendan have?
+Jason works as a car salesman. He needs to sell 15 cars this month to get a big bonus. He knows 25 phone calls result in one person visiting the dealership, and for every two visitors, one buys a car. How many phone calls must Jason make to sell 15 cars?
+John takes 5 minutes to complete the first side of a Rubik’s cube. The next two sides take double that time, and the last two sides take half the time of the first side. How long does it take to finish the entire cube?
+Dominick sees that there are half as many robots as helmets and half as many helmets as footballs in the changing room. There are 20 helmets. How many items are there in total?
+Tim works 6 hours a day answering phone calls, each lasting 15 minutes. How many calls does he handle in a 5-day week?
+Louise applies varnish to her paintings. Normally, it takes 7 minutes for one painting to dry, but the new varnish takes 12 minutes. How much longer will it take for 6 paintings to dry with the new varnish?
+Bob needs 56 popsicle sticks for his history project. He buys boxes of 8 sticks for $2 each. How much will his project cost?
+Derrick's bakery produces 10 dozen doughnuts each day, selling them for $2 each. How much does he earn in June if he sells all the doughnuts?
+John can speak 150 words per minute. After practicing, his speed increases to 2.5 times his original speed. How long will it take him to speak 10 pages with 450 words per page?
+Tim plans to make lemonade for a party. His recipe requires 1 cup of lemon juice per gallon, and 6 lemons make 1 cup. He wants to make 4 gallons of regular lemonade and 1 gallon that is twice as tart. How many lemons does he need?
+Gary bought a boat for $9,000. It lost 30% of its value in the first year, 30% in the second year, and 20% in the third year. What is the boat’s value after these three years?
+Mazie has 52 marbles and gives some to Dallas and Darla. After losing 4 marbles, Dallas has 21. How many marbles did Mazie give to Darla?
+John’s car weighs 1200 pounds, and the luggage adds 250 pounds. He has two children, each weighing 75 pounds. How much force is needed to move the car?
+James plans to hang crepe-paper streamers on a 20-foot by 15-foot fence. How many feet of crepe paper should he buy?
+Mia is 40 years old, and Emma is 16 years older than Mia. What is the average age of Mia and Emma?
+Tom, Nancy, and Benny found 214, 432, and 86 seashells, respectively. After cleaning, 67 were cracked. How many intact seashells did they find?
+Steve took 10 hours to finish a puzzle. Anna finished 2 hours more than half the time it took Steve. How long did it take Anna to finish the puzzle?
+Dexter has 5 pigs, and each eats 4 pounds of feed twice a day. If he has 300 pounds of feed, how much will remain after one week?
+John is hosting a birthday party for 20 people. Each person will eat 2 hot dogs. He has 4 leftover hot dogs from a previous party. How much will John spend on hot dogs?
+James found a quarter, two nickels, and seven dimes in a vending machine. How much money did he find?
+Timothy's pen collection is threefold that of George's. Sarah's pens total half of what Timothy possesses. If George has 18 pens, how many does Sarah have?
+Jackie grew 3 inches over the summer and is now 2 inches shorter than Anne, who is twice Albert’s height. If Albert is 36 inches tall, what was Jackie’s height before the summer?
+Ryan gets $6 per week for doing his chores, and he's done this for 3 weeks. He spent some of it on ice cream for himself and 3 friends, which was $1.25 each. Now, he wants to buy movie tickets, each at $6.50. How many tickets can Ryan buy?
+Ellen bought leggings for $100 and a photo frame for $5. Lani bought sunglasses for $30 and two bathrobes for $100 each. How much did they spend together?
+Tim makes a special jam with 2 pounds of passion fruit, 1.5 pounds of jackfruit, and 2 pounds of honey. Passion fruit costs $6 per pound, jackfruit costs $8 per pound, and honey costs $10 per pound. He sells each jar for $50. What is his profit if he sells 10 jars?
+Josh services 3 cars a day, 6 days a week. He earns $4 per car. How much does he earn in 2 weeks?
+Matthew is selling 12 toy soldiers. A customer buys half for $5 each and the other half for $7 each. How much does Matthew earn?
+Norman High School has 4,000 students each year, while Butler High School has about 3/4 of that number. What is the difference in enrollment between the two schools?
+The Adams family baked 7995 cookies, including 2595 rainbow cookies and 3075 oatmeal cookies. How many chocolate chip cookies did they bake?
+John is making 4 tables, each with 4 legs, and each leg requires 2 screws. He has 40 screws. How many screws will he have left?
+Kim raised $320 more than Alexandra, who raised $430, and Maryam raised $400 more than Sarah, who raised $300. What is their total amount raised?
+Aaron and Vanessa ran a relay race. Aaron’s pace was twice as fast as Vanessa’s, but Vanessa ran twice as far. If Vanessa ran 4 miles and Aaron’s segment took 16 minutes, how long did it take Vanessa to finish her race?
+Tom's eatery receives 6 bookings each evening. Typically, patrons order 2 dishes priced at $5 each, along with a $5 wine bottle. What is their weekly revenue if they operate 2 days weekly?
+John was 19 when James was born. James is currently twice as old as his sister Dora, who will be 12 in 3 years. How old will John’s youngest son, born when John was 32, be in 3 years?
+Ana peels an orange in 3 minutes, and Jane takes 4 minutes. How many more oranges will Ana have peeled than Jane after an hour?
+Farmer Brown has 20 animals—chickens and cows—with a total of 70 legs. How many of these animals are chickens?
+Henry and three friends buy 7 pizzas, each cut into 8 slices. If they share the pizzas equally, how many slices does each person get?
